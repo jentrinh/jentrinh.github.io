@@ -19,7 +19,8 @@ body {
 }
 
 p {
-    font-size: 14px;
+    margin: 0.5em 0.5em 0.5em 0.5em;
+    font-size: 1.4em;
     line-height: 1.75;
 }
 
@@ -53,7 +54,7 @@ h4,
 h5,
 h6 {
     text-transform: uppercase;
-    font-family: {{ site.font.heading1 }},{{ site.font.heading1 }},{{ site.font.heading1 }},{{ site.font.heading1 }},{{ site.font.heading1 }};
+    font-family: {{ site.font.heading1 }},{{ site.font.heading2 }},{{ site.font.heading3 }},{{ site.font.heading4 }},{{ site.font.heading5 }};
     font-weight: 700;
 }
 
@@ -282,7 +283,7 @@ header .intro-text {
 
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
-    font-family: {{ site.font.heading1 }},{{ site.font.heading1 }},{{ site.font.heading1 }},{{ site.font.heading1 }},{{ site.font.heading1 }};
+    font-family: {{ site.font.heading1 }},{{ site.font.heading2 }},{{ site.font.heading3 }},{{ site.font.heading4 }},{{ site.font.heading5 }};
     font-size: 22px;
     font-style: italic;
     line-height: 22px;
@@ -291,7 +292,7 @@ header .intro-text .intro-lead-in {
 header .intro-text .intro-heading {
     margin-bottom: 25px;
     text-transform: uppercase;
-    font-family: {{ site.font.heading1 }},{{ site.font.heading1 }},{{ site.font.heading1 }},{{ site.font.heading1 }},{{ site.font.heading1 }};
+    font-family: {{ site.font.heading1 }},{{ site.font.heading2 }},{{ site.font.heading3 }},{{ site.font.heading4 }},{{ site.font.heading5 }};
     font-size: 50px;
     font-weight: 700;
     line-height: 50px;
@@ -305,7 +306,7 @@ header .intro-text .intro-heading {
 
     header .intro-text .intro-lead-in {
         margin-bottom: 25px;
-        font-family: {{ site.font.heading1 }},{{ site.font.heading1 }},{{ site.font.heading1 }},{{ site.font.heading1 }},{{ site.font.heading1 }};
+        font-family: {{ site.font.heading1 }},{{ site.font.heading2 }},{{ site.font.heading3 }},{{ site.font.heading4 }},{{ site.font.heading5 }};
         font-size: 40px;
         font-style: italic;
         line-height: 40px;
@@ -314,7 +315,7 @@ header .intro-text .intro-heading {
     header .intro-text .intro-heading {
         margin-bottom: 50px;
         text-transform: uppercase;
-        font-family: {{ site.font.heading1 }},{{ site.font.heading1 }},{{ site.font.heading1 }},{{ site.font.heading1 }},{{ site.font.heading1 }};
+        font-family: {{ site.font.heading1 }},{{ site.font.heading2 }},{{ site.font.heading3 }},{{ site.font.heading4 }},{{ site.font.heading5 }};
         font-size: 75px;
         font-weight: 700;
         line-height: 75px;
@@ -325,17 +326,21 @@ section {
     padding: 100px 0;
 }
 
+section h1.section-heading {
+    margin-top: 0px;
+    margin-bottom: 30px;
+    font-size: 4em;
+}
+
 section h2.section-heading {
-    margin-top: 0;
-    margin-bottom: 15px;
-    font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 1.2em;
+    font-size: 3em;
 }
 
 section h3.section-subheading {
     margin-bottom: 75px;
-    text-transform: none;
-    font-family: {{ site.font.heading1 }},{{ site.font.heading1 }},{{ site.font.heading1 }},{{ site.font.heading1 }},{{ site.font.heading1 }};
-    font-size: 16px;
+    font-size: 2em;
     font-style: italic;
     font-weight: 400;
 }
@@ -347,7 +352,7 @@ section h3.section-subheading {
 }
 
 .service-heading {
-    margin: 15px 0;
+    margin: 15px 0px;
     text-transform: none;
 }
 
@@ -640,8 +645,8 @@ section h3.section-subheading {
 }
 
 .team-member h4 {
-    margin-top: 25px;
-    margin-bottom: 0;
+    margin-top: 1em;
+    margin-bottom: 1.5em;
     text-transform: none;
 }
 
