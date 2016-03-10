@@ -6,13 +6,27 @@ title: Clean Robotics
 email: your-email@domain.com
 description: "CleanRobotics makes waste management smart with Trashbot™, which intelligently automates recycling."
 
-# Color settings (hex-codes without the leading hash-tag)
-# http://paletton.com/palette.php?uid=5310u0koWxrf1LkknD3vguKvNne
+# Identity settings
+
+## Color settings (hex-codes without the leading hash-tag)
+## http://paletton.com/palette.php?uid=5310u0koWxrf1LkknD3vguKvNne
 color:
   primary: 28B573
   secondary: 2D77A7  
   secondary-dark: 313335
 
+## Font headings. Number indicates order of fallback
+font:
+  heading1: "Roboto Slab"
+  heading2: "Helvetica Neue"
+  heading3: Helvetica
+  heading4: Arial
+  heading5: sans-serif
+  body1: "Roboto Slab"
+  body2: "Helvetica Neue"
+  body3: Helvetica
+  body4: Arial
+  body5: sans-serif
 
 # Team names, titles and social links
 people:
