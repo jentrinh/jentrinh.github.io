@@ -1,6 +1,7 @@
 _site
 *.komodoproject
 *.psd
+@archive
 
 # Windows image file caches
 Thumbs.db
