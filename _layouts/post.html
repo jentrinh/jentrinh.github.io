@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+
+	{% include head.html %}
+
+	<style>
+		.header {
+			text-align: center;
+			color: #fff;
+			background-attachment: scroll;
+			background-image:
+				linear-gradient(
+					rgba(0, 0, 0, 0.6),
+					rgba(0, 0, 0, 0.6)
+					),
+				url({{ site.baseurl }}/img/posts/{{ page.img }});
+			background-position: center center;
+			background-repeat: no-repeat;
+			-webkit-background-size: cover;
+			-moz-background-size: cover;
+			background-size: cover;
+			-o-background-size: cover;
+		}
+	</style>
+
+	<body id="page-top" class="index">
+
+		<!-- Navigation -->
+		<nav class="navbar navbar-default navbar-fixed-top">
+			<div class="container">
+				<!-- Brand and toggle get grouped for better mobile display -->
+				<div class="navbar-header page-scroll">
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand page-scroll" href="{{site.baseurl}}/">
+						<img src="{{site.baseurl}}/img/logos/logo_clear.png" class="header-logo" alt="{{site.title}}">
+					</a>
+				</div>
+
+				<!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					<ul class="nav navbar-nav navbar-right">
+						<li>
+							<a href="{{site.baseurl}}/blog">Back to News</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</nav>
+
+		<!-- hero "header" uses post title and post image -->
+
+		<div class="header">
+			<div class="container">
+				<div class="intro-text">
+					<div class="intro-heading">
+						{{ page.title }}
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<!-- blog post content-->
+		<div class="container">
+			<div class="row post-row">
+				<div class="col-md-3 bg-light-gray">
+					<h3 class="service-heading">{{ page.title }}</h3>
+					<h4 class="service-heading">{{ page.date | date_to_string }}</h4>
+				</div>
+				<div class="col-md-9">
+					{{ page.content }}
+				</div>
+			</div>
+		</div>
+		</div>
+
+		{% include footer.html %} {% include js.html %}
+	</body>
+
+</html>

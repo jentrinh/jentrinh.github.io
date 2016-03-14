@@ -1,0 +1,101 @@
+url: http://www.cleanrobotics.com
+#baseurl: /cleanrobotics
+
+# Site settings
+title: CleanRobotics
+email: teamtrashbot@gmail.com
+description: "CleanRobotics makes waste management smart with Trashbot™, which intelligently automates recycling."
+
+# Identity settings
+
+## Color settings (hex-codes without the leading hash-tag)
+## http://paletton.com/palette.php?uid=5310u0koWxrf1LkknD3vguKvNne
+color:
+  primary: 28B573
+  secondary: 2D77A7
+  secondary-dark: 313335
+
+## Font headings. Number indicates order of fallback
+font:
+  heading1: 'Hind Siliguri'
+  heading2: Helvetica
+  heading3: Arial
+  heading4: sans-serif
+  heading5: sans-serif
+  body1: 'Hind Siliguri'
+  body2: Helvetica
+  body3: Arial
+  body4: sans-serif
+  body5: sans-serif
+
+# Team names, titles and social links
+people:
+- first: Vaish 
+  last: Krishnamurthy
+  pic: staff_vaish
+  position: CEO
+  info: Vaish brings 10+ years of software and product development in a variety of industries ranging from telecommunications to health care. She holds a MS in Electrical Engineering from University of California, Riverside.
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- first: Charles
+  last: Yhap
+  pic: staff_charles
+  position: COO
+  info: Charles is an experienced social entrepreneur and has worked in the fields of human rights and environmental protection. He has 10 years of experience and thrives in a mission driven start-up organization.
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- first: Koushil
+  last: Sreenath
+  pic: staff_koushil
+  position: CTO
+  info: Koushil is the technical co-founder of the TrashBot and is a professor of Mechanical Engineering at CMU. Koushil built a bipedal robot that was featured in Discovery channel, CNN, ESPN, Fox and CBS.
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- first: Zeynep
+  last: Tolon
+  pic: staff_zeynep
+  position: Senior Marketing Strategist
+  info: Zeynep is a senior marketing and business strategist with experience working for the largest companies in the world, including McKinsey, IBM and Microsoft.
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/CleanRobotics
+  - title: facebook
+    url: https://www.facebook.com/CleanRobotics-911640895594874
+  - title: linkedin
+    url: https://www.linkedin.com/company/cleanrobotics
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: AlphaLab Gear, East Liberty
+  - line: Pitsburgh, Pennsylania
+
+# Build settings
+markdown: kramdown
+permalink: pretty
