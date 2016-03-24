@@ -2,11 +2,26 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12 text-center">
-				<br><br>
+				<br /><br />
 				<h2 class="section-heading">The CleanRobotics <strong>Trashbot</strong>™ <br>intelligently automates recycling</h2>
 				<p>Right now, we are diligently prototyping the <strong>Trashbot</strong>™, our flagship product.</p>
-				<p>Check our <a href="{{site.baseurl}}/#news">News feed</a> for current information.</p>
+				<p>Check our <a href="{{site.baseurl}}/#news">News feed</a> for current information, or follow us on:</p>
 			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-4"></div>
+			<div class="col-md-4">
+				<p>
+				<ul class="list-inline social-buttons">
+					{% for network in site.social %}
+					<li><a href="{{ network.url }}"><i class="fa fa-lg fa-{{ network.title }}"></i></a>
+					</li>
+					{% endfor %}
+				</ul>
+				</p>
+				<br /><br />
+			</div>
+			<div class="col-md-4 "></div>
 		</div>
 	</div>
 </section>
