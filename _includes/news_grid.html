@@ -8,7 +8,7 @@
             </div>
             <div class="row">
             {% for post in site.posts offset: 0 limit: 4 %}
-                <div class="col-md-3 portfolio-item">
+                <div class="col-md-3 col-sm-6 portfolio-item">
                     <a href="{{ site.baseurl }}{{ post.url }}" class="portfolio-link">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
@@ -19,6 +19,7 @@
                     </a>
                     <div class="portfolio-caption">
                         <h4>{{ post.title }}</h4>
+                        <p> {{ post.date | date_to_string }}</p>
                     </div>
                 </div>
             {% endfor %}
