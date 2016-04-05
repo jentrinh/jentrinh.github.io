@@ -1,7 +1,7 @@
 ---
 title: Could my dream of starting a Robotics company have come true had it not been for Pittsburgh?
-img: default.jpg
-thumbnail: default-thumbnail.jpg
+img: robertoclementebridge.jpg
+thumbnail: robertoclementebridge-thumb.jpg
 layout: post
 ---
 
