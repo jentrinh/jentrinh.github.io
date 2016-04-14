@@ -1,7 +1,7 @@
 ---
 title: Blog // Why I Started CleanRobotics
 img: vaish-startup.jpg
-thumbnail: vaish-startup.jpg
+thumbnail: vaish-startup-thumb.jpg
 layout: post
 ---
 
