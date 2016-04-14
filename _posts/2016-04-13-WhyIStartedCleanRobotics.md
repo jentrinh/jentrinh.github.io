@@ -1,4 +1,4 @@
-﻿---
+---
 title: Blog // Why I Started CleanRobotics
 img: vaish-startup.jpg
 thumbnail: vaish-startup.jpg
@@ -26,7 +26,5 @@ Someone much, much smarter than me once said "change can start anywhere." It bec
 Happy Earth Month!
 
 Vaish
-
-<hr>
 
 *Vaish Krishnamurthy is the founder and CEO of CleanRobotics. At CleanRobotics, we are working to make recycling smarter. Join us and find out more at [www.cleanrobotics.com](http://www.cleanrobotics.com)*
