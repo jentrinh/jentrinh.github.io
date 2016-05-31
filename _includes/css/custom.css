@@ -2,6 +2,8 @@
   font-size: 8em;
 }
 
+
+
 section#about-break {
     text-align: center;
     color: #fff;
@@ -11,6 +13,23 @@ section#about-break {
           rgba(0, 0, 0, 0.5)
         ),
         url(img/about/solution-background.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+section#careers {
+    text-align: center;
+    color: #fff;
+    background-image:
+        linear-gradient(
+          rgba(0, 0, 0, 0.5),
+          rgba(0, 0, 0, 0.5)
+        ),
+        url(img/posts/robertoclementebridge.jpg);
     background-position: center;
     background-repeat: no-repeat;
     -webkit-background-size: cover;

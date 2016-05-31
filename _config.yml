@@ -104,3 +104,31 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+
+# Job postings
+
+careers:
+- title: VP of Engineering
+  date: 2016-05-27
+  description: We are looking for someone to serve as architect and leader for the CleanRobotics engineering team, responsible for both current and new product development as well as associated pilots.  Someone who is passionate about the environment but also has the technical chops from training and experience. Knows how to get people to hit deadlines and can help them overcome technical challenges. Someone who is focused on creating quality products and doing it right the first time!
+  scope:
+    - New product system architecture including technology, protocol and component selection
+    - Management and mentorship of hardware, embedded software, and test teams
+    - Collaborate with CEO, COO and CTO to develop product roadmap
+    - Implementing and executing product road map as it applies to hardware, sensors, and embedded software and machine learning.
+    - Recruiting engineering talent required to execute product roadmap.
+    - Support transfer process from design and piloting to manufacturing.
+  skills:
+    - Leading and managing complex engineering projects through full product development life cycle
+    - Background in microcontroller circuit design (AVR, ARM)
+    - Background in programming (JAVA,C, C++)
+    - Background in RF communication protocols (Specifically Bluetooth Low Energy, WiFi)
+    - Experience in power and memory management, algorithm design, signal processing, sensor selection and design, automation.
+    - Experience in material classification and manufacturing a plus
+    - Android OS experience preferred
+  quals:
+    - Master’s degree or greater in mechanical engineering, robotics, computer science or electrical engineering required.
+    - 2+ years experience in a hands-on technical role required.
+  other: Please note that this position is full-time at Pittsburgh headquarters. Must be local or willing to relocate. Must be a US Citizen, or a foreign citizen with required work visa. Some national or international travel maybe required for factory visits/supervision, possibly for extended periods of 2 months or more.
+  contact: To inquire about this position, please contact Vaish Krishnamurthy at <a href="mailto:Vaish@cleanrobotics.com">Vaish@cleanrobotics.com</a>

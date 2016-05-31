@@ -1,0 +1,49 @@
+---
+title: Careers
+layout: careers
+---
+
+
+
+<section>
+	<div class="container">
+		<div class="row">
+			{% for career in site.careers%}
+			<div class="col-lg-4">
+				<h1>{{ career.title }}</h1>
+				<p class="text-muted"><em>Posted on {{career.date}}</em></p>
+				<p class="text-muted"><em>{{career.contact}}</em></p>
+			</div>
+			<div class="col-lg-8">
+				<p>{{ career.description }}</p>
+				<h3>Responsibilities</h3>
+				<p class="text-muted">
+					<ul>
+						{% for each in career.scope %}
+						<li> {{ each }}</li>
+						{% endfor %}
+					</ul>
+				</p>
+				<h3>Skills</h3>
+				<p class="text-muted">
+					<ul>
+						{% for each in career.skills %}
+						<li> {{ each }}</li>
+						{% endfor %}
+					</ul>
+				</p>
+				<h3>Qualifications</h3>
+				<p class="text-muted">
+					<ul>
+						{% for each in career.quals %}
+						<li> {{ each }}</li>
+						{% endfor %}
+					</ul>
+				</p>
+				<br>
+				<p class="text-muted"><em>{{ career.other }}</em></p>
+			</div>
+			{% endfor %}
+		</div>
+	</div>
+</section>
