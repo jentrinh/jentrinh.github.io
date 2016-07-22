@@ -303,6 +303,25 @@ fieldset[disabled] .btn-xl.active {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+		height: 100%;
+		text-shadow: rgba(0, 0, 0, 0.5) 0px 0px 8px;
+}
+
+#header {
+	background-color: #444;
+	background-position: center 10%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-image: linear-gradient( rgba(0,0,0,0.6), rgba(0,0,0, 0.6)), url(img/header-bg.jpg);
+	display: table;
+	width: 100%;
+	height: 1080px;
+	min-height: 100%;
+	overflow-x: hidden;
+	overflow-y: hidden;
+	vertical-align: middle;
+	z-index: 1;
 }
 
 .header .intro-text {
@@ -325,13 +344,14 @@ fieldset[disabled] .btn-xl.active {
     font-size: 4rem;
     font-weight: 700;
     line-height: 4rem;
+		z-index: 10;
 }
 
 @media(min-width:768px) {
     .header .intro-text {
         height: auto;
-        padding-top: 300px;
-        padding-bottom: 200px;
+        padding-top: 20%;
+        padding-bottom: 20%;
     }
 
     .header .intro-text .intro-lead-in {

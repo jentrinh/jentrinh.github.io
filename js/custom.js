@@ -1,6 +1,5 @@
-/* ==============================================
- main flex slider
- =============================================== */
+/* main flex slider ***********************
+ */
 $(window).load(function() {
     $('.main-flex-slider').flexslider({
         slideshowSpeed: 2500,
@@ -9,4 +8,10 @@ $(window).load(function() {
         controlNav: false,
         direction: "vertical"
     });
+});
+
+/* video background ***********************
+ */
+  jQuery(function() {
+    jQuery(".player").mb_YTPlayer();
 });

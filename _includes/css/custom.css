@@ -2,8 +2,6 @@
   font-size: 8em;
 }
 
-
-
 section#about-break {
     text-align: center;
     color: #fff;
@@ -60,6 +58,10 @@ section#careers {
   margin-bottom: 5em;
 }
 
+/* **********************************
+ * flexslider
+ */
+
 /* flexslider width fix */
 .slides {
   width:100%;
@@ -109,6 +111,9 @@ section#careers {
     }
 }
 
+/* parallax *************************
+ */
+
 .parallax {
 	background-position: 0 0;
 	background-repeat: no-repeat;
@@ -116,4 +121,56 @@ section#careers {
 	width: 100%;
 	background-size: cover;
 	background-attachment: fixed;
+}
+
+/* video player *********************
+ *
+ */
+#ytp{
+    width:100%;
+    max-width:100%;
+    height: 800px;
+    display: table;
+    background-color: #444;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    z-index: 1;
+    position: relative;
+    overflow-y: hidden !important;
+    overflow-x: hidden !important;
+}
+@media(max-width:320px){
+    #ytp{
+        width:320px;
+        overflow-y: hidden !important;
+        overflow-x: hidden !important;
+        height: 300px;
+    }
+    .video-container h1{
+        font-size: 20px;
+    }
+}
+.video-container{
+    position: relative;
+    display: table-cell;
+    vertical-align: middle;
+    z-index: 3;
+}
+.video-container h1{
+    margin-bottom: 20px;
+    color:#fff;
+    text-transform: uppercase;
+}
+.video-container p{
+    color:#fff;
+}
+
+.video-mask {
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+	background-color: rgba(0,0,0,0.3);
+	z-index: -1;
 }
