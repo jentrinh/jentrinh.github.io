@@ -304,7 +304,7 @@ fieldset[disabled] .btn-xl.active {
     background-size: cover;
     -o-background-size: cover;
 		height: 100%;
-		text-shadow: rgba(0, 0, 0, 0.5) 0px 0px 8px;
+		/*text-shadow: rgba(0, 0, 0, 0.5) 0px 0px 8px;*/
 }
 
 #header {
