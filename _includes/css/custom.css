@@ -2,6 +2,8 @@
   font-size: 8em;
 }
 
+
+
 section#about-break {
     text-align: center;
     color: #fff;
@@ -58,10 +60,6 @@ section#careers {
   margin-bottom: 5em;
 }
 
-/* **********************************
- * flexslider
- */
-
 /* flexslider width fix */
 .slides {
   width:100%;
@@ -111,9 +109,6 @@ section#careers {
     }
 }
 
-/* parallax *************************
- */
-
 .parallax {
 	background-position: 0 0;
 	background-repeat: no-repeat;
@@ -122,6 +117,7 @@ section#careers {
 	background-size: cover;
 	background-attachment: fixed;
 }
+<<<<<<< HEAD
 
 /* video player *********************
  *
@@ -175,3 +171,5 @@ section#careers {
 	z-index: -1;
 }
 */
+=======
+>>>>>>> parent of 168b801... added YTPlayer and removed FlexSlider

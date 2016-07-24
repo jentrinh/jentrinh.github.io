@@ -1,5 +1,6 @@
-/* main flex slider ***********************
- */
+/* ==============================================
+ main flex slider
+ =============================================== */
 $(window).load(function() {
     $('.main-flex-slider').flexslider({
         slideshowSpeed: 2500,
@@ -9,6 +10,7 @@ $(window).load(function() {
         direction: "vertical"
     });
 });
+<<<<<<< HEAD
 
 /* video background ***********************
  */
@@ -17,3 +19,5 @@ $(window).load(function() {
 });*/
 
 $('#header-bg-vid').vide('media/vid/trashbot/trashbot');
+=======
+>>>>>>> parent of 168b801... added YTPlayer and removed FlexSlider
