@@ -12,6 +12,8 @@ $(window).load(function() {
 
 /* video background ***********************
  */
-  jQuery(function() {
+/*jQuery(function() {
     jQuery(".player").mb_YTPlayer();
-});
+});*/
+
+$('#header-bg-vid').vide('media/vid/trashbot/trashbot');

@@ -125,7 +125,7 @@ section#careers {
 
 /* video player *********************
  *
- */
+
 #ytp{
     width:100%;
     max-width:100%;
@@ -170,7 +170,8 @@ section#careers {
 	top:0;
 	left:0;
 	width:100%;
-	height:100%;
+	height:800px;
 	background-color: rgba(0,0,0,0.3);
 	z-index: -1;
 }
+*/
