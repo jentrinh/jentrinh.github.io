@@ -10,7 +10,7 @@ $(window).load(function() {
         direction: "vertical"
     });
 });
-<<<<<<< HEAD
+
 
 /* video background ***********************
  */
@@ -19,5 +19,3 @@ $(window).load(function() {
 });*/
 
 $('#header-bg-vid').vide('media/vid/trashbot/trashbot');
-=======
->>>>>>> parent of 168b801... added YTPlayer and removed FlexSlider

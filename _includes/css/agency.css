@@ -303,7 +303,6 @@ fieldset[disabled] .btn-xl.active {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-<<<<<<< HEAD
 		height: 100%;
 		/*text-shadow: rgba(0, 0, 0, 0.5) 0px 0px 8px;*/
 		z-index: 10;
@@ -355,8 +354,6 @@ fieldset[disabled] .btn-xl.active {
 	overflow-y: hidden;
 	vertical-align: middle;
 	z-index: 1;
-=======
->>>>>>> parent of 168b801... added YTPlayer and removed FlexSlider
 }
 
 .header .front-page-header .intro-text {
