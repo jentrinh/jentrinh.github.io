@@ -107,11 +107,17 @@ permalink: pretty
 
 
 # Job postings
+## description: each bullet is rendered as a paragraph at the beginning
+## scope, skills, quals, money: each bullet is rendered as a bullet
+## date and contact: rendered on the side in full screen, before description in mobile
+## postscript: each bullet is rendered as a paragraph at the end
+## other: rendered as an italics paragraph after everything else
 
 careers:
-- title: VP of Engineering
+- title: Vice President of Engineering
   date: 2016-05-27
-  description: We are looking for someone to serve as architect and leader for the CleanRobotics engineering team, responsible for both current and new product development as well as associated pilots.  Someone who is passionate about the environment but also has the technical chops from training and experience. Knows how to get people to hit deadlines and can help them overcome technical challenges. Someone who is focused on creating quality products and doing it right the first time!
+  description:
+    - We are looking for someone to serve as architect and leader for the CleanRobotics engineering team, responsible for both current and new product development as well as associated pilots&#58; Someone who is passionate about the environment but also has the technical chops from training and experience. Knows how to get people to hit deadlines and can help them overcome technical challenges. Someone who is focused on creating quality products and doing it right the first time! The fast-paced entrepreneurial environment and unique founding leadership opportunities are not for everyone. We are looking for a confident leader who thinks way outside the box and who possess business savvy, entrepreneurial instincts and risk tolerance to excel in the CleanRobotics team.
   scope:
     - New product system architecture including technology, protocol and component selection
     - Management and mentorship of hardware, embedded software, and test teams
@@ -131,4 +137,57 @@ careers:
     - Master’s degree or greater in mechanical engineering, robotics, computer science or electrical engineering required.
     - 2+ years experience in a hands-on technical role required.
   other: Please note that this position is full-time at Pittsburgh headquarters. Must be local or willing to relocate. Must be a US Citizen, or a foreign citizen with required work visa. Some national or international travel maybe required for factory visits/supervision, possibly for extended periods of 2 months or more.
-  contact: To inquire about this position, please contact Vaish Krishnamurthy at <a href="mailto:Vaish@cleanrobotics.com">Vaish@cleanrobotics.com</a>
+  contact: To inquire about this position, please contact Vaish Krishnamurthy or Charles Yhap at <a href="mailto:founders@cleanrobotics.com">founders@cleanrobotics.com</a>.
+  money:
+    - Equity stake commensurate with first key hire.
+    - Salary negotiable, but delayed. You're coming in on the ground floor of a start-up.
+- title: Vice President of Marketing and Business Development
+  date: 2016-11-05
+  description:
+    - We are looking for a person passionate about the environment and entrepreneurship&#58; someone with a strong foundation in business balanced by strong humanity; someone who knows how to get people to hit deadlines and can help them overcome challenges; a confident leader who thinks way outside the box and who possess business savvy, entrepreneurial instincts, and risk tolerance to excel in the CleanRobotics team.
+  scope:
+    - Prepare overall marketing strategy.
+    - Develop programs with quantifiable objectives to measure results.
+    - Implement and manage marketing budget.
+    - Leverage data and analytics to drive insights.
+    - Modify or redirect business intelligence strategy.
+    - Build, oversee and direct the efforts of the marketing team.
+    - Develop segmentation, competitive analysis/market intelligence, prospecting, lead generation, product and market development, pricing, promotions, communications and budgets, sales force effectiveness, strategic planning, services units and revenue retention and growth.
+    - Develop and measure key metrics around the business including user acquisition, conversion rates, engagement rates, satisfaction and renewal rates.
+    - Meet Company’s revenue goals, increase customer base, add to existing customer profitability and expand existing channels
+    - Identify, design, develop and implement market-driven products and services to achieve the company’s mission 
+    - Participate in strategic planning processes to ensure corporate strategies align with market drivers and support a customer intimate approach 
+    - Identify and measure the key activities that create success in the marketplace then implement corporate policies, practices and metrics to ensure alignment 
+    - Identify potential strategic partners, alliances and relationships to expand core product lines or bring new product lines to the organization 
+    - Collaborate with leadership and professional staff to develop and deliver new products and services 
+    - Foster, promote and facilitate a customer-oriented focus that advocates consultative client relationships and leverages cross-selling of company-wide products and capabilities 
+    - Develop and maintain high-profile external relationships within client constituents, professional organizations, etc.(public relations presence) 
+    - Review business development performance  
+    - Create a knowledge transfer philosophy for both internal and external constituents, then implement policies and practices including training program for all aspects of the business development process that leverage video training modules via the corporate internet, intranet and extranet
+  skills:
+    - Proven leadership skills in business development, enterprise sales. 
+    - Strong organization and prioritization skills
+    - Strong communication and negotiation skills
+    - Strong interpersonal and customer relations skills
+    - Demonstrated track record of building business and developing capabilities in sales
+    - Demonstrated ability to attract, influence and mentor other executives and leaders within an organization
+    - Proven and verifiable track record of increasing revenues leading to profitability; having successfully managed revenue and profit centers a plu
+    - Ability to establish a strong communication link and credibility with clients, potential clients, professional staff and management teams through the highest level of professionalism, integrity, mutual respect, and value added mentality
+    - Strong entrepreneurial instincts with the passion, determination and experience to build a fast growth business
+  quals:
+    - Bachelors with 4-6 years’ experience, or MBA or equivalent education with 2-3 years’ experience
+  other: Please note that this position is full-time at Pittsburgh headquarters. Must be local or willing to relocate. Must be a US Citizen, or a foreign citizen with required work visa. Some national or international travel maybe required for factory or site visits/supervision, possibly for extended periods of 2 months or more.
+  contact: To inquire about this position, please contact Vaish Krishnamurthy or Charles Yhap at <a href="mailto:founders@cleanrobotics.com">founders@cleanrobotics.com</a>.
+  money:
+    - Equity stake commensurate with first key hire.
+    - Salary negotiable, but delayed. You're coming in on the ground floor of a start-up.
+  character:
+    - Extraordinary drive and focus on long-term value  
+    - Bright, quick, articulate, excellent presentation and interpersonal skills, and able to adapt to different internal and external constituencies
+    - Viewed as a team player who also possesses the independence of thought and opinion to provide candor and honesty when making key business decisions 
+    - Passionate about business results, with a strong sense of accountability, metrics and ownership
+    - Strategic thinker balanced with a grasp of the details
+  postscript:
+    - A fundamental measure of success for the position will be increased and sustainable revenue that meets or exceeds goals.
+    - If you believe you have the unique blend of knowledge, skills, drive and abilities, we invite you to explain to us why you think you would fit in, how you could help build the firm, and what you could bring to the role.
+    - Please submit your resume and&mdash;in-lieu of a cover letter&mdash;please write a statement about your reasoning for applying and how you believe you can contribute. Please be as specific and succinct as possible and address your contribution in the areas of&#58;<ul><li>New Client Development</li><li>Innovative Business Practices</li><li>Marketing</li><li>Talent Management</li><li>Firm Culture</li></ul>

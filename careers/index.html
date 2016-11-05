@@ -6,44 +6,88 @@ layout: careers
 
 
 <section>
-	<div class="container">
-		<div class="row">
-			{% for career in site.careers%}
-			<div class="col-lg-4">
-				<h1>{{ career.title }}</h1>
-				<p class="text-muted"><em>Posted on {{career.date}}</em></p>
-				<p class="text-muted"><em>{{career.contact}}</em></p>
-			</div>
-			<div class="col-lg-8">
-				<p>{{ career.description }}</p>
-				<h3>Responsibilities</h3>
-				<p class="text-muted">
-					<ul>
-						{% for each in career.scope %}
-						<li> {{ each }}</li>
-						{% endfor %}
-					</ul>
-				</p>
-				<h3>Skills</h3>
-				<p class="text-muted">
-					<ul>
-						{% for each in career.skills %}
-						<li> {{ each }}</li>
-						{% endfor %}
-					</ul>
-				</p>
-				<h3>Qualifications</h3>
-				<p class="text-muted">
-					<ul>
-						{% for each in career.quals %}
-						<li> {{ each }}</li>
-						{% endfor %}
-					</ul>
-				</p>
-				<br>
-				<p class="text-muted"><em>{{ career.other }}</em></p>
-			</div>
-			{% endfor %}
+<div class="container">
+	{% for career in site.careers %}
+	<hr>
+	<div class="row">
+		<div class="col-lg-12>">
+			<h1>{{ career.title }}</h1>
 		</div>
 	</div>
+	<div class="row">
+		<div class="col-lg-4">
+			<p class="text-muted"><em>Posted on {{career.date}}</em></p>
+			<p class="text-muted"><em>{{career.contact}}</em></p>
+		</div>
+		<div class="col-lg-8">
+			{% if career.description %}
+			{% for each in career.description %}
+			<p>{{ each }}</p>
+			{% endfor %}
+			{% endif %}
+			</hr>
+			{% if career.money %}
+			<h3>Compensation</h3>
+			<p class="text-muted">
+				<ul>
+					{% for each in career.money %}
+					<li> {{ each }}</li>
+					{% endfor %}
+				</ul>
+			</p>
+			{% endif %}
+			{% if career.scope %}
+			<h3>Responsibilities</h3>
+			<p class="text-muted">
+				<ul>
+					{% for each in career.scope %}
+					<li> {{ each }}</li>
+					{% endfor %}
+				</ul>
+			</p>
+			{% endif %}
+			{% if career.skills %}
+			<h3>Skills and Abilities</h3>
+			<p class="text-muted">
+			<ul>
+				{% for each in career.skills %}
+				<li> {{ each }}</li>
+				{% endfor %}
+			</ul>
+			</p>
+			{% endif %}
+			{% if career.character %}
+			<h3>Character</h3>
+			<p class="text-muted">
+				<ul>
+					{% for each in career.character %}
+					<li> {{ each }}</li>
+					{% endfor %}
+				</ul>
+			</p>
+			{% endif %}
+			{% if career.quals %}
+			<h3>Qualifications</h3>
+			<p class="text-muted">
+				<ul>
+					{% for each in career.quals %}
+					<li> {{ each }}</li>
+					{% endfor %}
+				</ul>
+			</p>
+			{% endif %}
+			{% if career.postscript %}
+			<hr>
+			{% for each in career.postscript%}
+			<p>{{ each }}</p>
+			{% endfor %}
+			{% endif %}
+			{% if career.other %}
+			<br><br>
+			<p class="text-muted small"><em>{{ career.other }}</em></p>
+			{% endif %}
+		</div>
+	</div>
+	{% endfor %}
+</div>
 </section>
