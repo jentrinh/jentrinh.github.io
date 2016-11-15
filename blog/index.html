@@ -8,12 +8,17 @@ layout: blog
 	<div class="container">
 		{% for post in site.posts %}
 		<div class="row">
-			<div class="col-lg-12">
+			<div class="col-sm-2">
+				<img src='{{ site.baseurl }}/img/posts/{{ post.thumbnail }}' style="max-width:100%;"/>
+			</div>
+			<div class="col-sm-10">
 				<h3 class="section-heading"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
 				<h4 class="section-heading">{{ post.date | date_to_string }}</h4>
+				
 				<!--<p><a href="{{ site.baseurl }}{{ post.url }}" class="button alt">Read Post</a></p>-->
 			</div>
 		</div>
+		<br>
 		{% endfor %}
 	</div>
 </section>
