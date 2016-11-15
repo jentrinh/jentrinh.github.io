@@ -5,7 +5,7 @@ thumbnail: post-trashbot-thumb.jpg
 layout: post
 ---
 
-Today is America Recycles Day, a national initiative of [Keep America Beautiful]( https://www.kab.org/). Thousands of events to promote and educate people on recycling are taking place all across the country, and many more of us (67.5K at last count) have pledged to increase our recycling efforts to help raise the national recycling rate above its current 34 percent.
+Today is [America Recycles Day](https://americarecyclesday.org/), a national initiative of [Keep America Beautiful](https://www.kab.org/). Thousands of events to promote and educate people on recycling are taking place all across the country, and many more of us (67.5K at last count) have pledged to increase our recycling efforts to help raise the national recycling rate above its current 34 percent.
 
 Although efforts to recycle have continued to increase over the last 30 years, there is still a tremendous amount of recyclable material that ends up in landfills due to a combination of human error, contamination, and high processing costs. The problem is that recycling is just not that easy. In fact, it’s rather confusing.
 
@@ -20,6 +20,8 @@ Let’s break down said cup, complete with a lid and cardboard insulation sleeve
 * **Lid:** Recycling bin…if you’re lucky. (This ultimately depends on the type of plastic it is made from and where you are. You’ll need to know these two factors before walking up to a recycling bin.)
 
 * **Sleeve:** Recycling bin, maybe, assuming it hasn’t been contaminated by spilled coffee or the chocolate icing from your doughnut. (products with food or grease can destroy entire batches of recycling material)
+
+(See http://earth911.com/recycling-guide/how-to-recycle-paper-cups/ for more information on recycling these kinds of cups)
 
 Making the wrong disposal choice for any of these components leads to much bigger problems at scale: the contamination of the recycling stream and perfectly recyclable materials going to the landfill (often the latter the result of the former). In 2013, approximately 300 million tons of waste ended up in landfills, triple what it was 30 years ago. That’s about one million 747 jet planes worth of trash going to landfills every single year in the US alone.
 
@@ -45,7 +47,7 @@ The more waste collected by TrashBots, the better. TrashBot’s sorting accuracy
 
 <iframe style="max-width:100%;" src="https://www.youtube.com/embed/IFH0AUOpU_8" frameborder="0" allowfullscreen></iframe>
 
-A single TrashBot has the potential to replace all conventional trash and recycling bins we currently use. From corporate workplaces to stadiums and ball parks to universities, schools, airports, grocery stores, restaurants, malls, and even airplanes, the practical applications for TrashBot are endless. With accurate, automated separation of recyclables at the source, communities could even begin utilizing multi-stream recycling instead of single stream. 
+A single TrashBot has the potential to replace all conventional trash and recycling bins we currently use. From corporate workplaces to stadiums and ball parks to universities, schools, airports, grocery stores, restaurants, malls, and even airplanes. The practical applications for TrashBot are endless. With accurate, automated separation of recyclables at the source, communities could even begin utilizing multi-stream recycling instead of single stream. 
 
 ## Where we are now
 
@@ -56,6 +58,8 @@ With our first pilot wrapped up, we are working on implementing a re-design with
 ---
 
 Contact us if you have any questions...or would like to pre-order TrashBot! We are always looking for feedback from people in the recycling industry, too: [teamtrashbot@gmail.com](mailto:teamtrashbot@gmail.com)
+
+In the meantime, please take part of today to educate yourself on new ways you can help increase your own recycling rate, review your community's recycling regulations, and sign the pledge on the [America Recycles Day website](https://americarecyclesday.org/)! 
 
 Happy Recycling! 
 
