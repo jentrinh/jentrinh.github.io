@@ -11,7 +11,7 @@ Although efforts to recycle have continued to increase over the last 30 years, t
 
 Take a simple disposable coffee cup. Where does it go: a regular trash can or the recycling bin? The answer is both, or neither, based on its composition and where you happen to be at any given trash-disposing moment.
 
-<img src='{{site.baseurl}}/img/posts/post-coffeecups.png' />
+<img src='{{site.baseurl}}/img/posts/post-coffeecups.png' style="max-width:100%;"/>
 
 Let’s break down said cup, complete with a lid and cardboard insulation sleeve.
 
@@ -39,15 +39,15 @@ TrashBot is the world’s first “smart” waste bin that automatically sorts y
 
 TrashBot has a single opening for all trash. Simply walk up to a TrashBot (programmed specifically for the municipality you’re in) and toss your garbage into the open chamber. The lid closes and you walk away. Once the item is inside, a combination of cameras and sensors quickly scan the type of discarded material. Using a custom machine-learning algorithm, TrashBot then makes a classification. A mechanical flap system deposits the item into either the single stream recycling bin or landfill waste. A weight sensor then keeps track of the amount of recyclable material and landfill waste on a daily/weekly basis for accurate waste auditing; a particularly helpful feature for businesses who perform waste monitoring and/or those with green initiatives.
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/ghqDwLIzC0Y" frameborder="0" allowfullscreen></iframe>
+<iframe style="max-width:100%;" src="https://www.youtube.com/embed/ghqDwLIzC0Y" frameborder="0" allowfullscreen></iframe>
 
 The more waste collected by TrashBots, the better. TrashBot’s sorting accuracy is designed to improve over time as it learns to detect more and more types of materials. Data from TrashBot’s first pilot at a technology company in Pittsburgh showed results of 81% sorting accuracy after only very basic training. If TrashBot can help divert even a modest 60% of the total trash into the recycling stream, just imagine how many hundreds of millions of tons of waste we can keep out of landfills. 
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/IFH0AUOpU_8" frameborder="0" allowfullscreen></iframe>
+<iframe style="max-width:100%;" src="https://www.youtube.com/embed/IFH0AUOpU_8" frameborder="0" allowfullscreen></iframe>
 
 A single TrashBot has the potential to replace all conventional trash and recycling bins we currently use. From corporate workplaces to stadiums and ball parks to universities, schools, airports, grocery stores, restaurants, malls, and even airplanes, the practical applications for TrashBot are endless. With accurate, automated separation of recyclables at the source, communities could even begin utilizing multi-stream recycling instead of single stream. 
 
-## Where we are now? 
+## Where we are now
 
 Earlier this year, CleanRobotics was accepted into [HAX](https://hax.co/), a world-renowned hardware accelerator in China. There, we built our first prototype and subsequently conducted a successful pilot of Trashbot.
 
