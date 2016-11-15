@@ -5,7 +5,7 @@ thumbnail: post-trashbot-thumb.jpg
 layout: post
 ---
 
-Today is [America Recycles Day](https://americarecyclesday.org/), a national initiative of [Keep America Beautiful](https://www.kab.org/). Thousands of events to promote and educate people on recycling are taking place all across the country, and many more of us (67.5K at last count) have pledged to increase our recycling efforts to help raise the national recycling rate above its current 34 percent.
+Today is [America Recycles Day](https://americarecyclesday.org/), a national initiative of [Keep America Beautiful](https://www.kab.org/). Thousands of events to promote and educate people on recycling are taking place all across the country, and many more of us (67.5K at last count) have pledged to increase our recycling efforts to help raise the national recycling rate above its current 20 percent.
 
 Although efforts to recycle have continued to increase over the last 30 years, there is still a tremendous amount of recyclable material that ends up in landfills due to a combination of human error, contamination, and high processing costs. The problem is that recycling is just not that easy. In fact, it’s rather confusing.
 
