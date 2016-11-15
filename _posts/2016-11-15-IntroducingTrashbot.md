@@ -55,7 +55,7 @@ With our first pilot wrapped up, we are working on implementing a re-design with
 
 ---
 
-Contact us if you have any questions...or would like to pre-order TrashBot! We are always looking for feedback from people in the recycling industry, too: [teamtrashbot@gmail.com](mailto:teamtrashbot@gmail.com)
+Contact us if you have any questions...or would like to pre-order TrashBot! We are always looking for feedback from people in the recycling industry, too: [teamtrashbot@gmail.com](mailto:teamtrashbot@gmail.com).
 
 Happy Recycling! 
 
