@@ -12,7 +12,7 @@ section#about-break {
           rgba(0, 0, 0, 0.5),
           rgba(0, 0, 0, 0.5)
         ),
-        url(img/about/solution-background2.jpg);
+        url(img/posts/post-trashbot1.jpg);
     background-position: center;
     background-repeat: no-repeat;
 		background-size: cover;
@@ -32,8 +32,8 @@ section#careers {
           rgba(0, 0, 0, 0.5),
           rgba(0, 0, 0, 0.5)
         ),
-        url(img/posts/robertoclementebridge.jpg);
-    background-position: center;
+        url(img/about/solution-background2.jpg);
+    background-position: 50% 80%;
     background-repeat: no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -160,13 +160,94 @@ section#careers {
     color:#fff;
 }
 
+*/
 .video-mask {
 	position:absolute;
 	top:0;
 	left:0;
 	width:100%;
-	height:800px;
+	height:100%;
 	background-color: rgba(0,0,0,0.3);
 	z-index: -1;
 }
-*/
+
+
+.front-page-header {
+	text-align: center;
+	color: #fff;
+	background-attachment: scroll;
+	/*background-image: url(img/header-bg.jpg);*/
+	background-position: center center;
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+	height: 100%;
+	/*text-shadow: rgba(0, 0, 0, 0.5) 0px 0px 8px;*/
+	z-index: 10;
+}
+
+#front-page-header {
+	background-color: #444;
+	background-position: center 10%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	/*background-image: linear-gradient( rgba(0,0,0,0.6), rgba(0,0,0, 0.6)), url(img/header-bg.jpg);*/
+	display: table;
+	width: 100%;
+	height: 100%;
+	min-height: 100%;
+	overflow-x: hidden;
+	overflow-y: hidden;
+	vertical-align: middle;
+	z-index: 10;
+}
+
+.front-page-header .intro-text {
+    padding-top: 40%;
+    padding-bottom: 25%;
+}
+
+.front-page-header  .intro-text .intro-lead-in {
+    margin-bottom: 25px;
+    font-family: {{ site.font.heading1 }},{{ site.font.heading2 }},{{ site.font.heading3 }},{{ site.font.heading4 }},{{ site.font.heading5 }};
+    font-size: 22px;
+    font-style: italic;
+    line-height: 22px;
+}
+
+.front-page-header  .intro-text .intro-heading {
+    margin-bottom: 25px;
+    text-transform: uppercase;
+    font-family: {{ site.font.heading1 }},{{ site.font.heading2 }},{{ site.font.heading3 }},{{ site.font.heading4 }},{{ site.font.heading5 }};
+    font-size: 4rem;
+    font-weight: 700;
+    line-height: 4rem;
+}
+
+@media(min-width:768px) {
+    .front-page-header  .intro-text {
+        height: auto;
+        padding-top: 25%;
+        padding-bottom: 25%;
+    }
+
+    .front-page-header  .intro-text .intro-lead-in {
+        margin-bottom: 25px;
+        font-family: {{ site.font.heading1 }},{{ site.font.heading2 }},{{ site.font.heading3 }},{{ site.font.heading4 }},{{ site.font.heading5 }};
+        font-size: 40px;
+        font-style: italic;
+        line-height: 40px;
+    }
+
+    .front-page-header  .intro-text .intro-heading {
+        margin-bottom: 50px;
+        text-transform: uppercase;
+        font-family: {{ site.font.heading1 }},{{ site.font.heading2 }},{{ site.font.heading3 }},{{ site.font.heading4 }},{{ site.font.heading5 }};
+        font-size: 75px;
+        font-weight: 700;
+        line-height: 75px;
+    }
+}
