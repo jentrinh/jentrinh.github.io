@@ -21,7 +21,7 @@ Let’s break down said cup, complete with a lid and cardboard insulation sleeve
 
 * **Sleeve:** Recycling bin, maybe, assuming it hasn’t been contaminated by spilled coffee or the chocolate icing from your doughnut. (products with food or grease can destroy entire batches of recycling material)
 
-(See http://earth911.com/recycling-guide/how-to-recycle-paper-cups/ for more information on recycling these kinds of cups)
+(See [Earth 911's post](http://earth911.com/recycling-guide/how-to-recycle-paper-cups/) on recycling these kinds of cups)
 
 Making the wrong disposal choice for any of these components leads to much bigger problems at scale: the contamination of the recycling stream and perfectly recyclable materials going to the landfill (often the latter the result of the former). In 2013, approximately 300 million tons of waste ended up in landfills, triple what it was 30 years ago. That’s about one million 747 jet planes worth of trash going to landfills every single year in the US alone.
 
