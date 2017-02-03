@@ -337,8 +337,7 @@ fieldset[disabled] .btn-xl.active {
 .header  .intro-text .intro-lead-in {
     margin-bottom: 25px;
     font-family: {{ site.font.heading1 }},{{ site.font.heading2 }},{{ site.font.heading3 }},{{ site.font.heading4 }},{{ site.font.heading5 }};
-    font-size: 22px;
-    font-style: italic;
+    font-size: 18px;
     line-height: 22px;
 }
 
@@ -362,7 +361,6 @@ fieldset[disabled] .btn-xl.active {
         margin-bottom: 25px;
         font-family: {{ site.font.heading1 }},{{ site.font.heading2 }},{{ site.font.heading3 }},{{ site.font.heading4 }},{{ site.font.heading5 }};
         font-size: 40px;
-        font-style: italic;
         line-height: 40px;
     }
 
