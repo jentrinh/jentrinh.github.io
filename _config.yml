@@ -7,6 +7,10 @@ email: teamtrashbot@gmail.com
 description: "CleanRobotics makes waste management smart with Trashbot™, a robotic trash can that automatically separates landfill waste from recyclables."
 logo-header: img/logos/logo-text-small.png
 
+# Build settings
+markdown: kramdown
+permalink: pretty
+
 # Identity settings
 
 ## Color settings (hex-codes without the leading hash-tag)
@@ -31,23 +35,10 @@ font:
 
 # Team names, titles and social links
 people:
-- first: Vaish 
-  last: Krishnamurthy
-  pic: staff_vaish
-  position: CEO
-  info: Vaish brings 10+ years of software and product development in a variety of industries ranging from telecommunications to health care. She holds a MS in Electrical Engineering from University of California, Riverside.
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
 - first: Charles
   last: Yhap
   pic: staff_charles
-  position: COO
+  position: CEO
   info: Charles is an experienced social entrepreneur and has worked in the fields of human rights and environmental protection. He has 10 years of experience and thrives in a mission driven start-up organization.
   social:
     - title: twitter
@@ -56,12 +47,23 @@ people:
       url: #
     - title: linkedin
       url: #
-
-- first: Koushil
-  last: Sreenath
-  pic: staff_koushil
-  position: CTO
-  info: Koushil is the technical co-founder of the TrashBot and is a professor of Mechanical Engineering at CMU. Koushil built a bipedal robot that was featured in Discovery channel, CNN, ESPN, Fox and CBS.
+- first: Tanner
+  last: Cook
+  pic: staff_tanner
+  position: VP of Engineering
+  info: Tanner brings a wealth of engineering and research experience from multiple years working for and founding advanced technology startups such as Higea Technologies and Innoven Energy.
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+- first: Zeynep
+  last: Tolon
+  pic: staff_zeynep
+  position: Senior Marketing Strategist
+  info: Zeynep is a senior marketing and business strategist with experience working for the largest companies in the world, including McKinsey, IBM and Microsoft.
   social:
     - title: twitter
       url: #
@@ -69,12 +71,35 @@ people:
       url: #
     - title: google-plus
       url: #
-
-- first: Zeynep
-  last: Tolon
-  pic: staff_zeynep
-  position: Senior Marketing Strategist
-  info: Zeynep is a senior marketing and business strategist with experience working for the largest companies in the world, including McKinsey, IBM and Microsoft.
+- first: Jayanth
+  last: Sharma
+  pic: staff_jayanth
+  position: Director of Electronic Systems
+  info: Jayanth is a recent graduate of CMU with a Masters in Electrical Engineering. He brings a robust knowledge of a variety of electrical systems.
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+- first: Vaish 
+  last: Krishnamurthy
+  pic: staff_vaish
+  position: Board Chair
+  info: Vaish brings 10+ years of software and product development in a variety of industries ranging from telecommunications to health care. She holds a MS in Electrical Engineering from University of California, Riverside.
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+- first: Koushil
+  last: Sreenath
+  pic: staff_koushil
+  position: Technical Advisor
+  info: Koushil is the technical co-founder of the TrashBot and is a professor of Mechanical Engineering at CMU. Koushil built a bipedal robot that was featured in Discovery channel, CNN, ESPN, Fox and CBS.
   social:
     - title: twitter
       url: #
@@ -102,11 +127,6 @@ social:
 address:
   - line: AlphaLab Gear, East Liberty
   - line: Pitsburgh, Pennsylania
-
-# Build settings
-markdown: kramdown
-permalink: pretty
-
 
 # Job postings
 ## description: each bullet is rendered as a paragraph at the beginning
