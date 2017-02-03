@@ -2,9 +2,19 @@
   font-size: 8em;
 }
 
+.bg-block {
+    bottom: 10px;
+    left: 10px;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 4px 8px;
+    color: white;
+    margin: 0;
+}
 
-
-section#about-break {
+/* about-break-static shows only on small and medium screens using Bootstrap
+ * responsive class
+ */
+section#about-break-static {
     text-align: center;
     color: #fff;
     background-image:
@@ -13,6 +23,24 @@ section#about-break {
           rgba(0, 0, 0, 0.5)
         ),
         url(img/posts/post-trashbot1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+		background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+
+		padding-top: 150px;
+		padding-bottom: 300px;
+}
+
+/* about-break-ytp shows only on large and xl screens using Bootstrap responsive
+ * class. Plays Youtube video in the background; fallsback to trashbot picture
+ */
+section#about-break-ytp {
+    text-align: center;
+    color: #fff;
+    background-image: url(img/posts/post-trashbot1.jpg);
     background-position: center;
     background-repeat: no-repeat;
 		background-size: cover;
@@ -60,118 +88,6 @@ section#careers {
   margin-bottom: 5em;
 }
 
-/* flexslider width fix */
-.slides {
-  width:100%;
-  padding:0;
-  margin:0;
-}
-
-/* flexslider fonts */
-.main-flex-slider h1 .colored-text{
-    font-weight: 900;
-}
-
-.main-flex-slider h1{
-    font-weight: 900;
-    font-style: normal;
-    color:#fff;
-    margin: 0;
-
-    text-transform: uppercase;
-}
-@media(min-width:1200px){
-    .main-flex-slider h1{
-        line-height: 64px;
-        padding: 7px 5px;
-        font-size: 64px;
-    }
-}
-@media(max-width:992px){
-    .main-flex-slider h1{
-        line-height: 50px;
-        padding: 0 5px;
-        font-size: 50px;
-    }
-}
-@media(max-width:768px){
-    .main-flex-slider h1{
-        line-height: 40px;
-        padding: 0 5px;
-        font-size: 40px;
-    }
-}
-@media(max-width:633px){
-    .main-flex-slider h1{
-        line-height: 25px;
-        padding: 0 5px;
-        font-size: 25px;
-    }
-}
-
-.parallax {
-	background-position: 0 0;
-	background-repeat: no-repeat;
-	background-size: 100% auto;
-	width: 100%;
-	background-size: cover;
-	background-attachment: fixed;
-}
-
-/* video player *********************
- *
-
-#ytp{
-    width:100%;
-    max-width:100%;
-    height: 800px;
-    display: table;
-    background-color: #444;
-    overflow-x: hidden;
-    overflow-y: hidden;
-    z-index: 1;
-    position: relative;
-    overflow-y: hidden !important;
-    overflow-x: hidden !important;
-}
-@media(max-width:320px){
-    #ytp{
-        width:320px;
-        overflow-y: hidden !important;
-        overflow-x: hidden !important;
-        height: 300px;
-    }
-    .video-container h1{
-        font-size: 20px;
-    }
-}
-.video-container{
-    position: relative;
-    display: table-cell;
-    vertical-align: middle;
-    z-index: 3;
-}
-.video-container h1{
-    margin-bottom: 20px;
-    color:#fff;
-    text-transform: uppercase;
-}
-.video-container p{
-    color:#fff;
-}
-
-*/
-.video-mask {
-	position:absolute;
-	top:0;
-	left:0;
-	width:100%;
-	height:100%;
-	background-color: rgba(0,0,0,0.3);
-	z-index: -1;
-}
-
-
 .front-page-header {
 	text-align: center;
 	color: #fff;
@@ -214,7 +130,6 @@ section#careers {
     margin-bottom: 25px;
     font-family: {{ site.font.heading1 }},{{ site.font.heading2 }},{{ site.font.heading3 }},{{ site.font.heading4 }},{{ site.font.heading5 }};
     font-size: 22px;
-    font-style: italic;
     line-height: 22px;
 }
 
@@ -238,7 +153,6 @@ section#careers {
         margin-bottom: 25px;
         font-family: {{ site.font.heading1 }},{{ site.font.heading2 }},{{ site.font.heading3 }},{{ site.font.heading4 }},{{ site.font.heading5 }};
         font-size: 40px;
-        font-style: italic;
         line-height: 40px;
     }
 

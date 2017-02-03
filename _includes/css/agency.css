@@ -337,7 +337,7 @@ fieldset[disabled] .btn-xl.active {
 .header  .intro-text .intro-lead-in {
     margin-bottom: 25px;
     font-family: {{ site.font.heading1 }},{{ site.font.heading2 }},{{ site.font.heading3 }},{{ site.font.heading4 }},{{ site.font.heading5 }};
-    font-size: 18px;
+    font-size: 22px;
     line-height: 22px;
 }
 

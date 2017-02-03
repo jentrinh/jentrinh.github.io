@@ -1,7 +1,11 @@
-<section id="about-break">
+<div id="about-break"><!--for nav only-->
+<section id="about-break-static" class="hidden-lg">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12 text-center">
+				<div class="embed-responsive embed-responsive-16by9">
+				  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ghqDwLIzC0Y"  allowfullscreen></iframe>
+				</div>			
 				<h2 class="section-heading">The CleanRobotics <strong>Trashbot</strong>™ <br>intelligently automates recycling</h2>
 				<p>Right now, we are diligently prototyping the <strong>Trashbot</strong>™, our flagship product.</p>
 				<p>Check our <a href="{{site.baseurl}}/#news">News feed</a> for current information, or follow us on:</p>
@@ -24,15 +28,33 @@
 		</div>
 	</div>
 </section>
-
-<!--section id="ytp">
-
-	<a id="video" class="player" data-property="{videoURL:'https://www.youtube.com/watch?v=ghqDwLIzC0Y',containment:'#ytp', showControls:true, autoPlay:true, loop:true, mute:true, startAt:0, opacity:1, quality:'default'}"></a>
-	<div class="video-container text-center">
-		<div class="container text-center">
-			<h1>Ask about our <span class="colored-text">Virtual Geospatial Technology Officer (vGTO)</span> services</h1>
-			<p>We provide on-demand, authoritative consulting support for optimal flight planning, geodata processing, enterprise data management, and web-based mapping solutions</p>
-			<p><a href="#contact" class="btn btn-lg btn-theme-bg">Get in touch</a></p>
+<section id="about-break-ytp" class="hidden-xs hidden-sm hidden-md">
+	<div id="video" class="player" data-property="{videoURL:'https://www.youtube.com/watch?v=ghqDwLIzC0Y',containment:'#about-break-ytp', showControls:true, showYTLogo: true, autoPlay:true, loop:true, mute:true, startAt:0, opacity:1, quality:'default'}"></div>
+	<div class="video-container">
+		<div class="container">
+			<div class="row bg-block">
+				<div class="col-lg-12 text-center">
+					<h2 class="section-heading">The CleanRobotics <strong>Trashbot</strong>™ <br>intelligently automates recycling</h2>
+					<p>Right now, we are diligently prototyping the <strong>Trashbot</strong>™, our flagship product.</p>
+					<p>Check our <a href="{{site.baseurl}}/#news">News feed</a> for current information, or follow us on:</p>
+				</div>
+			</div>
+			<div class="row bg-block">
+				<div class="col-md-4"></div>
+				<div class="col-md-4">
+					<p>
+					<ul class="list-inline social-buttons">
+						{% for network in site.social %}
+						<li><a href="{{ network.url }}"><i class="fa fa-lg fa-{{ network.title }}"></i></a>
+						</li>
+						{% endfor %}
+					</ul>
+					</p>
+					<br/><br/>
+				</div>
+				<div class="col-md-4"></div>
+			</div>
 		</div>
 	</div>
-</section-->
+</section>
+</div>
