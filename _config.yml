@@ -192,3 +192,43 @@ careers:
     - A fundamental measure of success for the position will be increased and sustainable revenue that meets or exceeds goals.
     - If you believe you have the unique blend of knowledge, skills, drive and abilities, we invite you to explain to us why you think you would fit in, how you could help build the firm, and what you could bring to the role.
     - Please submit your resume and&mdash;in-lieu of a cover letter&mdash;please write a statement about your reasoning for applying and how you believe you can contribute. Please be as specific and succinct as possible and address your contribution in the areas of&#58;<ul><li>New Client Development</li><li>Innovative Business Practices</li><li>Marketing</li><li>Talent Management</li><li>Firm Culture</li></ul>
+
+- title: Electrical/Embedded Hardware Intern
+  date: 2017-2-15
+  description:
+    - We are looking to bring on a top notch Electrical Engineering Intern who will work with us to create the next generation of CleanRobotics technology. At CleanRobotics interns work directly with a paired mentor engineer to create hardware and software that will change the way we deal with waste.
+    You'll work in an award winning office with smart designs, large common areas, and an open floor plan that fules collaboration. Best of all your contributions will directly impact the company (our internships are not a summer camp!)
+  quals: 
+    -	Pursuing/Graduated with a Bachelor’s or Master’s degree in Electrical Engineering
+    - Proficient at PCB layout, electronic assembly, and troubleshooting circuits with an oscilloscope
+    - Proficient at writing firmware (C/C++) for MCUs in embedded systems
+    - Hands-on experience through previous jobs, student teams, co-op, and/or personal projects
+  scope:
+    - Develop hardware and firmware for TrashBot
+    - Test, characterize and iterate existing designs
+    - Evaluate new sensor technologies and assess for applicability to our projects
+    - Create production testing solutions for electronic assemblies
+  skills:
+    Preferred Skills&#58
+    - Experience with common communication protocols (SPI, UART, CAN) 
+    - Familiarity with version control systems such as Subversion and Git
+    -	Familiarity with sensor interfaces, such as LIDAR, GPS, and RADAR
+    Other Skills&#58
+    •	Fast learner&#58 We’re looking for team members who thrive on applying their knowledge, learning new technologies and don’t believe in one-size-fits-all solutions. You should be able to adapt easily to meet the rapid pace of a rapidly evolving research, development, and testing environment.
+    •	Fearlessness&#58 You think a working proof-of-concept is the best way to make a point. You strive on proving that speed and quality are not conflicting; that you can achieve both at the same time.
+    •	Versatility&#58 In addition to having an intimate knowledge of core engineering fields, you understand how all the pieces fit together into integrated systems, and how they impact performance.
+    •	Passion&#58 You feel ownership over everything you ship; you'd never call code or design "released" until you’re confident it’s correct. You pride yourself on efficient monitoring, strong documentation, and proper test coverage.
+    •	Team player&#58 You believe that you can achieve more on a team — that the whole is greater than the sum of its parts. You rely on others' candid feedback for continuous improvement.
+
+
+  other: Please note that this position is full-time at Pittsburgh headquarters with the possibility of moving to Colorado. Must be local or willing to relocate. Must be a US Citizen, or a foreign citizen with required work visa. 
+  contact: To inquire about this position, please contact Tanner Cook at <a href="mailto:tanner@cleanrobotics.com">tanner@cleanrobotics.com</a>.
+
+  character:
+    - Extraordinary drive and focus on long-term value  
+    - Bright, quick, articulate, excellent presentation and interpersonal skills, and able to adapt to different internal and external constituencies
+    - Viewed as a team player who also possesses the independence of thought and opinion to provide candor and honesty when making engineering decisions
+    - Strategic thinker balanced with a grasp of the details
+  postscript:
+    - If you believe you have the unique blend of knowledge, skills, drive and abilities, we invite you to explain to us why you think you would fit in, how you could help build the firm, and what you could bring to the role.
+    - Please submit your resume and&mdash;in-lieu of a cover letter&mdash;please write a statement about your reasoning for applying and how you believe you can contribute to CleanRobotics.
