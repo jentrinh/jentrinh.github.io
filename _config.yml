@@ -143,7 +143,7 @@ address:
 
 careers:
 - title: Vice President of Marketing and Business Development
-  date: 2016-11-05
+  ##date: 2016-11-05
   description:
     - We are looking for a person passionate about the environment and entrepreneurship&#58; someone with a strong foundation in business balanced by strong humanity; someone who knows how to get people to hit deadlines and can help them overcome challenges; a confident leader who thinks way outside the box and who possess business savvy, entrepreneurial instincts, and risk tolerance to excel in the CleanRobotics team.
   scope:
@@ -194,7 +194,7 @@ careers:
     - Please submit your resume and&mdash;in-lieu of a cover letter&mdash;please write a statement about your reasoning for applying and how you believe you can contribute. Please be as specific and succinct as possible and address your contribution in the areas of&#58;<ul><li>New Client Development</li><li>Innovative Business Practices</li><li>Marketing</li><li>Talent Management</li><li>Firm Culture</li></ul>
 
 - title: Electrical/Embedded Hardware Intern
-  date: 2017-2-15
+  ##date: 2017-2-15
   description:
     - We are looking to bring on a top notch Electrical Engineering Intern who will work with us to create the next generation of CleanRobotics technology. At CleanRobotics interns work directly with a paired mentor engineer to create hardware and software that will change the way we deal with waste. You'll work in an award winning office with smart designs, large common areas, and an open floor plan that fules collaboration. Best of all your contributions will directly impact the company (our internships are not a summer camp!)
   quals: 
