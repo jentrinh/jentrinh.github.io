@@ -66,7 +66,7 @@ people:
   pic: staff_aakash
   position: VP of Marketing & Business Development
   type: leadership
-  info: Possessing a natural hustle and entrepreneurial spirit, Aakash brings strong experience in Product Strategy, Product Marketing, Go-to-Market, and Growth Hacking. With an MS in Entrepreneurship and Innovation Management from CMU, he seeks to use his suite of skills to help change the world.
+  info: Aakash brings strong experience in Product Strategy, Product Marketing, Go-to-Market, and Growth Hacking. He has an MS in Entrepreneurship and Innovation Management from CMU.
   social:
     - title: twitter
       url: #
@@ -105,8 +105,7 @@ people:
   pic: staff_jen
   position: Director of Operations
   type: leadership
-  info: Jen is an experienced project leader in technical startup environments. She has a PhD in physics from UC Santa Cruz, where, as a National Science Foundation Graduate Research Fellow, she performed research and managed operations at a newly-created lab focused on quantum materials. She is passionate about sustainability and promoting scientific literacy and diversity in science and tech.
-  social:
+  info: Jen is an experienced project leader in technical startup environments. She has a PhD in physics from UC Santa Cruz, where she was an NSF Graduate Fellow.
     - title: twitter
       url: #
     - title: facebook
@@ -183,7 +182,7 @@ careers:
     - Evaluate new sensor technologies and assess for applicability to our projects
     - Create production testing solutions for electronic assemblies
   
-  preferred skills:
+  skills:
     - Experience with common communication protocols (SPI, UART, CAN) 
     - Experience with Computer Vision
     - Experience with SolidWorks/AutoCAD
@@ -191,8 +190,6 @@ careers:
     - Familiarity with Machine Learning
     - Familiarity with version control systems such as Subversion and Git
     -	Familiarity with sensor interfaces, such as LIDAR, GPS, and RADAR
-    
-  other skills:
     •	Fast learner&#58 We’re looking for team members who thrive on applying their knowledge, learning new technologies and don’t believe in one-size-fits-all solutions. You should be able to adapt easily to meet the rapid pace of a rapidly evolving research, development, and testing environment.
     •	Fearlessness&#58 You think a working proof-of-concept is the best way to make a point. You strive on proving that speed and quality are not conflicting; that you can achieve both at the same time.
     •	Versatility&#58 In addition to having an intimate knowledge of core engineering fields, you understand how all the pieces fit together into integrated systems, and how they impact performance.
