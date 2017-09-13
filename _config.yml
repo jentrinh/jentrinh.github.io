@@ -203,3 +203,17 @@ careers:
   postscript:
     - If you believe you have the unique blend of knowledge, skills, drive, and abilities, we invite you to explain to us why you think you would fit in, how you could help build the firm, and what you could bring to the role.
     - Please submit your resume, a link to your portfolio, and&mdash;in lieu of a cover letter&mdash;please write a statement about your reasons for applying and how you believe you can contribute to CleanRobotics.
+- title: Electrical Engineering & Software Engineering Interns
+  date: 2017-9-13
+  description: 
+    - We are currently seeking two interns (one EE, one software) to join our team for the Fall 2017 semester, with the possibility of continuing onward if there's a good fit.
+  quals: 
+    - Profiency in Python coding and debugging (software)
+    - Proficiency in C/C++ (EE)
+    - Experience in designing, evaluating, and modifying electrical systems (EE)
+    - Can wear many hats (e.g., you might be asked to help with hardware or software)
+    - Strong analytical skills
+    - Can work in a small team environment
+
+  other: This position is an unpaid internship at our Pittsburgh headquarters.
+  contact: To inquire about this position, please contact Tanner Cook at <a href="mailto:tanner@cleanrobotics.com">tanner@cleanrobotics.com</a>.
