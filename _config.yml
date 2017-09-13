@@ -74,19 +74,6 @@ people:
       url: #
     - title: linkedin
       url: #
-- first: Zeynep
-  last: Tolon
-  pic: staff_zeynep
-  position: Senior Marketing Strategist
-  type: leadership
-  info: Zeynep is a senior marketing and business strategist with experience working for the largest companies in the world, including McKinsey, IBM and Microsoft.
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
 - first: Jayanth
   last: Sharma
   pic: staff_jayanth
@@ -100,12 +87,25 @@ people:
       url: #
     - title: google-plus
       url: #
+- first: Grant
+  last: Halleran
+  pic: staff_grant
+  position: Director of Hardware Engineering
+  type: advisory
+  info: Grant is a graduate student at Carnegie Mellon University studying Engineering and Technology Innovation Management with an undergraduate degree in Mechanical Engineering. He brings technical expertise in design for manufacturing, product development, and hardware engineering as well valuable knowledge in lean entrepreneurship and business strategy. 
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
 - first: Jennifer 
   last: Trinh
   pic: staff_jen
   position: Director of Operations
   type: advisory
-  info: Jen is an experienced project leader in technical startup environments. She has a PhD in physics from UC Santa Cruz, where she was an NSF Graduate Research Fellow.
+  info: Jen is an experienced project leader in technical startup environments. She has a PhD in physics from UC Santa Cruz, where she was an NSF Graduate Research Fellow. She is passionate about sustainability and promoting scientific literacy and diversity in science and tech.
   social:  
     - title: twitter
       url: #
@@ -118,7 +118,7 @@ people:
   pic: staff_vaish
   position: Board Chair
   type: advisory
-  info: Vaish brings 10+ years of software and product development in a variety of industries ranging from telecommunications to health care. She holds a MS in Electrical Engineering from University of California, Riverside.
+  info: Vaish brings 10+ years of software and product development in a variety of industries ranging from telecommunications to health care. She holds an MS in Electrical Engineering from University of California, Riverside.
   social:
     - title: twitter
       url: #
