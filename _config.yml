@@ -105,7 +105,7 @@ people:
   pic: staff_jen
   position: Director of Operations
   type: leadership
-  info: Jen is an experienced project leader in technical startup environments. She has a PhD in physics from UC Santa Cruz, where she was an NSF Graduate Fellow.
+  info: Jen is an experienced project leader in technical startup environments. She has a PhD in physics from UC Santa Cruz, where she was an NSF Graduate Research Fellow.
     - title: twitter
       url: #
     - title: facebook
@@ -181,7 +181,6 @@ careers:
     - Test, characterize and iterate existing designs
     - Evaluate new sensor technologies and assess for applicability to our projects
     - Create production testing solutions for electronic assemblies
-  
   skills:
     - Experience with common communication protocols (SPI, UART, CAN) 
     - Experience with Computer Vision
@@ -190,12 +189,6 @@ careers:
     - Familiarity with Machine Learning
     - Familiarity with version control systems such as Subversion and Git
     -	Familiarity with sensor interfaces, such as LIDAR, GPS, and RADAR
-    •	Fast learner&#58 We’re looking for team members who thrive on applying their knowledge, learning new technologies and don’t believe in one-size-fits-all solutions. You should be able to adapt easily to meet the rapid pace of a rapidly evolving research, development, and testing environment.
-    •	Fearlessness&#58 You think a working proof-of-concept is the best way to make a point. You strive on proving that speed and quality are not conflicting; that you can achieve both at the same time.
-    •	Versatility&#58 In addition to having an intimate knowledge of core engineering fields, you understand how all the pieces fit together into integrated systems, and how they impact performance.
-    •	Passion&#58 You feel ownership over everything you ship; you'd never call code or design "released" until you’re confident it’s correct. You pride yourself on efficient monitoring, strong documentation, and proper test coverage.
-    •	Team player&#58 You believe that you can achieve more on a team — that the whole is greater than the sum of its parts. You rely on others' candid feedback for continuous improvement.
-
   money: 
   other: Please note that this position is full-time at our Pittsburgh headquarters, with the possibility of moving to Colorado. Must be local or willing to relocate. Must be willing to travel. Must be a US Citizen, or a foreign citizen with required work visa. 
   contact: To inquire about this position, please contact Tanner Cook at <a href="mailto:tanner@cleanrobotics.com">tanner@cleanrobotics.com</a>.
