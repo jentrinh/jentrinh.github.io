@@ -182,8 +182,8 @@ careers:
     - Test, characterize and iterate existing designs
     - Evaluate new sensor technologies and assess for applicability to our projects
     - Create production testing solutions for electronic assemblies
-  skills:
-    Preferred Skilss&#58
+  
+  preferred skills:
     - Experience with common communication protocols (SPI, UART, CAN) 
     - Experience with Computer Vision
     - Experience with SolidWorks/AutoCAD
@@ -191,7 +191,8 @@ careers:
     - Familiarity with Machine Learning
     - Familiarity with version control systems such as Subversion and Git
     -	Familiarity with sensor interfaces, such as LIDAR, GPS, and RADAR
-    Other Skills&#58
+    
+  other skills:
     •	Fast learner&#58 We’re looking for team members who thrive on applying their knowledge, learning new technologies and don’t believe in one-size-fits-all solutions. You should be able to adapt easily to meet the rapid pace of a rapidly evolving research, development, and testing environment.
     •	Fearlessness&#58 You think a working proof-of-concept is the best way to make a point. You strive on proving that speed and quality are not conflicting; that you can achieve both at the same time.
     •	Versatility&#58 In addition to having an intimate knowledge of core engineering fields, you understand how all the pieces fit together into integrated systems, and how they impact performance.
