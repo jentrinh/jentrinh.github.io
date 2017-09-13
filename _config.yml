@@ -91,7 +91,7 @@ people:
   last: Sharma
   pic: staff_jayanth
   position: Director of Electronic Systems
-  type: leadership
+  type: advisory
   info: Jayanth is a recent graduate of CMU with a Masters in Electrical Engineering. He brings a robust knowledge of a variety of electrical systems.
   social:
     - title: twitter
@@ -104,7 +104,7 @@ people:
   last: Trinh
   pic: staff_jen
   position: Director of Operations
-  type: leadership
+  type: advisory
   info: Jen is an experienced project leader in technical startup environments. She has a PhD in physics from UC Santa Cruz, where she was an NSF Graduate Research Fellow.
     - title: twitter
       url: #
