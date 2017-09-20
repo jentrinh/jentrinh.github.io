@@ -1,5 +1,5 @@
 ---
-title: How contamination in recycling has put $5Billion trade in danger?
+title: How contamination in recycling has put $5 Billion trade in danger?
 img: container.jpg
 thumbnail: container-thumb.jpg
 layout: post
