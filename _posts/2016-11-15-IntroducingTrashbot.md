@@ -1,7 +1,7 @@
 ---
 title: Introducing Trashbot
 img: post-trashbot1.jpg
-thumbnail: post-trashbot-thumb.jpg
+thumbnail: post-trashbot1.jpg
 layout: post
 ---
 
