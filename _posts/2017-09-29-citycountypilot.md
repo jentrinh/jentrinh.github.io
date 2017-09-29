@@ -1,6 +1,6 @@
 ---
 title: CleanRobotics at the PGH Labs Innovation Program
-img: jaytalking.jpg
+img: jaytalking.JPG
 thumbnail: tbotthumb.jpg
 layout: post
 ---
