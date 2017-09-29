@@ -14,7 +14,6 @@ And boasts of benefits, apart from providing the startups a real environment to 
 
 	Co-Working Space
 	Access to many global incubators
-
 	Mentoring & Guidance from a city champion
 
 CleanRobotics is proud to have been part of the 2017 Cohort and gained amazing experience during the pilot along with other innovative startup from the region.
@@ -33,9 +32,6 @@ We sat down with Annia Aleman - Civic Innovation Specialist at the PGH Lab to he
 
 
 [Annia Aleman with the TrashBot](/img/posts/anniapost.JPG)
-
-
-1.
 
 1.How would you define the program at PGH Labs and its benefits for startups?
 
