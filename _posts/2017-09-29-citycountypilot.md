@@ -28,12 +28,13 @@ We will share the results of the pilot along with learnings in our next post but
 
 
 
-
 We sat down with Annia Aleman - Civic Innovation Specialist at the PGH Lab to help people learn more about the program.
 
 
 
 ![anniapost](/img/posts/anniapost.JPG){:class="img-responsive"}
+
+
 
 1.How would you define the program at PGH Labs and its benefits for startups?
 
