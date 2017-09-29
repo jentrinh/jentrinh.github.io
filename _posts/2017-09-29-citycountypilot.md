@@ -21,7 +21,7 @@ And boasts of benefits, apart from providing the startups a real environment to 
 CleanRobotics is proud to have been part of the 2017 Cohort and gained amazing experience during the pilot along with other innovative startup from the region.
 
 
-![cohortpgh](/img/posts/cohortpgh.jpg){:class="img-responsive"}
+![cohortpgh](/img/posts/cohortpgh.jpg){:class="img-responsive"}{:height="1200px" width="800px"}
 
 
 We will share the results of the pilot along with learnings in our next post but in this post,  but here we want people to learn more about the program at PGH Lab.
