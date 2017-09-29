@@ -13,7 +13,9 @@ PGH Lab describes their mission as:
 And boasts of benefits, apart from providing the startups a real environment to test their prototypes in, like:
 
 	Co-Working Space
+
 	Access to many global incubators
+
 	Mentoring & Guidance from a city champion
 
 CleanRobotics is proud to have been part of the 2017 Cohort and gained amazing experience during the pilot along with other innovative startup from the region.
