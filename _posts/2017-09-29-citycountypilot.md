@@ -21,7 +21,7 @@ And boasts of benefits, apart from providing the startups a real environment to 
 CleanRobotics is proud to have been part of the 2017 Cohort and gained amazing experience during the pilot along with other innovative startup from the region.
 
 
-[2017 Cohort](/img/posts/cohortpgh.JPG)
+[2017 Cohort](/img/posts/cohortpgh.JPG){:class="img-responsive"}
 
 
 We will share the results of the pilot along with learnings in our next post but in this post,  but here we want people to learn more about the program at PGH Lab.
@@ -33,7 +33,7 @@ We sat down with Annia Aleman - Civic Innovation Specialist at the PGH Lab to he
 
 
 
-[Annia Aleman with the TrashBot](/img/posts/anniapost.JPG)
+[Annia Aleman with the TrashBot](/img/posts/anniapost.JPG){:class="img-responsive"}
 
 1.How would you define the program at PGH Labs and its benefits for startups?
 
