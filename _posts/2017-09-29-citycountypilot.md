@@ -32,7 +32,7 @@ We sat down with Annia Aleman - Civic Innovation Specialist at the PGH Lab to he
 
 
 
-![anniapost](/img/posts/anniapost.JPG){:class="img-responsive"}
+![anniapost](/img/posts/anniapost.JPG){:class="img-responsive"}{:height="1200px" width="600px"}
 
 
 
