@@ -14,11 +14,17 @@ Our award-winning product, TrashBot, is an automated, smart trash can that combi
 ![TrashbotV2](/img/posts/TrashbotV2.jpg){:class="img-responsive"}{:height="900px" width="350px"}   ![grantcc](/img/posts/grantcc.jpg){:class="img-responsive"}{:height="900px" width="350px"}
 
 Based on surveys and conversations with employees and members of the public, we could determine the following:
+
 1. The top reasons for people not separating their waste into recycling and landfill waste are “Lack of knowledge about materials they are disposing” and “Lack of knowledge about different types of receptacles.”
+
 2. The majority of the respondents described our product as “Unique” and “Innovative,” and 81% rated the design and build “Above Average.”
+
 3. 60% of respondents liked the sleek design of the TrashBot, although many felt that it was too large. 
+
 4. Several people suggested that the TrashBot needs to sort more quickly in order to make it easier to use.
+
 5. A fun suggestion: TrashBot should play music to attract attention in hallways and public places.  
+
 To everyone who stopped by to chat with us and fill out the survey – thank you! Your comments and feedback will allow us to make a better, more user-friendly product. Based on the primarily positive feedback, it’s clear that we are on the right track.
 
 ![jaytalking](/img/posts/jaytalking.JPG){:class="img-responsive"}{:height="900px" width="350px"}
