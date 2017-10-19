@@ -12,26 +12,15 @@ As explained in the previous post [here]({{ site.baseurl }}/2017/09/29/citycount
 
 The Pittsburghers with whom we interacted provided some excellent feedback. Based on surveys and conversations with employees and members of the public, we were able to determine the following:
 
-1. The top reasons for people not separating their waste into recycling and landfill waste are “Lack of knowledge about materials they are disposing” and “Lack of knowledge about different types of receptacles.” 
+1. **The top reasons for people not separating their waste into recycling and landfill waste are “Lack of knowledge about materials they are disposing” and “Lack of knowledge about different types of receptacles.”** There are so many different kinds of materials that go into packaging and products, and properly looking up how to sort individual items can be an arduous task. TrashBot will take away the pain of sorting while providing users with feedback regarding how to sort, so that they'll learn whether or not an item is recyclable and be able to apply that knowledge going forward. 
 
-There are so many different kinds of materials that go into packaging and products, and properly looking up how to sort individual items can be an arduous task. TrashBot will take away the pain of sorting while providing users with feedback regarding how to sort, so that they'll learn whether or not an item is recyclable and be able to apply that knowledge going forward. 
+2. **The majority of the respondents described our product as “Unique” and “Innovative,” and 81% rated the design and build “Above Average.”** We want to make sure that our units are attractive and will look good no matter what environment they are in. Waste can be a messy eyesore, but waste receptacles don't have to be!
 
-2. The majority of the respondents described our product as “Unique” and “Innovative,” and 81% rated the design and build “Above Average.”
+3. **60% of respondents liked the sleek design of the TrashBot, although many felt that it was too large.** This feedback will help us to make a more user-friendly, accessible product. We want to make sure that all of our users can comfortably interact with the TrashBot.
 
-We want to make sure that our units are attractive and will look good no matter what environment they are in. Waste can be a messy eyesore, but waste receptacles don't have to be!
+4. **Several people suggested that the TrashBot needs to sort more quickly in order to make it easier to use.** Your time is valuable -- we want to make sure that your only your trash, and not your time, is wasted.
 
-3. 60% of respondents liked the sleek design of the TrashBot, although many felt that it was too large. 
-
-This feedback will help us to make a more user-friendly, accessible product. We want to make sure that all of our users can comfortably interact with the TrashBot.
-
-4. Several people suggested that the TrashBot needs to sort more quickly in order to make it easier to use.
-
-Your time is valuable -- we want to make sure that your only your trash, and not your time, is wasted.
-
-5. A fun suggestion: TrashBot should play music to attract attention in hallways and public places.  
-
-TrashBot, Jukebox edition. We'll let you know if our future market research supports this suggestion.
-
+5. **A fun suggestion: TrashBot should play music to attract attention in hallways and public places.** TrashBot, Jukebox edition. We'll let you know if our future market research supports this suggestion.
 
 To everyone who stopped by to chat with us and fill out the survey – thank you! Your comments and feedback will allow us to make a better, more user-friendly product. Based on the primarily positive feedback, it’s clear that we are on the right track.
 
