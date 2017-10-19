@@ -4,6 +4,7 @@ img: container.jpg
 thumbnail: container-thumb.jpg
 layout: post
 ---
+
 When you go to throw away your empty pizza boxes, hair spray bottles, or light bulbs, do you know which bins they belong in, or how to dispose of them properly? If you aren't sure, don't feel too bad -- many Americans also don't know. The average American only has a 30% accuracy rate (worse than random) when it comes to sorting their waste, and this lack of understanding has created a crisis within the reycling industry. In fact, contamination in US recycling has impacted the global recycling industry and put nearly $5 billion worth of business at risk.
 
 A brief primer on how this recycling trade has worked so far with China: a large number of container ships come from China to the US, and because of the trade deficit, there is very low demand for space on these ships upon returning to China. Thus, shipping companies offer huge discounts for the return leg, such that it is cheaper to send solid waste to China relative to transporting that waste from Los Angeles to Chicago through rails. This has also led to a rise in the number of recycling plants in China.
