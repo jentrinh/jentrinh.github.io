@@ -1,10 +1,9 @@
 ---
-title: Contamination in recycling: how the US might be throwing away $5 billion worth of trade
+title: Contamination in recycling, or how the US might be throwing away $5 billion worth of trade
 img: container.jpg
 thumbnail: container-thumb.jpg
 layout: post
 ---
-
 When you go to throw away your empty pizza boxes, hair spray bottles, or light bulbs, do you know which bins they belong in, or how to dispose of them properly? If you aren't sure, don't feel too bad -- many Americans also don't know. The average American only has a 30% accuracy rate (worse than random) when it comes to sorting their waste, and this lack of understanding has created a crisis within the reycling industry. In fact, contamination in US recycling has impacted the global recycling industry and put nearly $5 billion worth of business at risk.
 
 A brief primer on how this recycling trade has worked so far with China: a large number of container ships come from China to the US, and because of the trade deficit, there is very low demand for space on these ships upon returning to China. Thus, shipping companies offer huge discounts for the return leg, such that it is cheaper to send solid waste to China relative to transporting that waste from Los Angeles to Chicago through rails. This has also led to a rise in the number of recycling plants in China.
@@ -19,4 +18,4 @@ At CleanRobotics, we have developed the TrashBot, which is a smart receptacle th
 
 So while you might not be sure about how to get rid of dirty coffee cups or broken water bottles (unless maybe you are), do your part to promote sustainability by sharing information about the TrashBot and CleanRobotics with your friends, coworkers, and local community! Waste is a messy problem -- let TrashBot sort it out for you.
 
-Alternatively, if you are interested in working with us, please contact us! See our Careers page for more details. 
+Alternatively, if you are interested in working with us, please contact us! See our Careers page ([here]({{ site.baseurl }}/careers)) for more details. 
