@@ -28,15 +28,11 @@ To everyone who stopped by to chat with us and fill out the survey – thank you
 
 The PGH Lab Innovation program was not only an opportunity for us to collect data, but a demonstration of the many wonderful projects and potential collaborations that are evolving within the Pittsburgh community. Partnerships were formed between a number of local startups and government entities, including:
 
--Clean Robotics & City of Pittsburgh
-
--Cognowear & Urban Redevelopment Authority
-
--MellonHead Labs & Pittsburgh Water and Sewer Authority
-
--FlyWheel & Urban Redevelopment Authority
-
--Kaarta & City of Pittsburgh
+* Clean Robotics & City of Pittsburgh
+* Cognowear & Urban Redevelopment Authority
+* MellonHead Labs & Pittsburgh Water and Sewer Authority
+* FlyWheel & Urban Redevelopment Authority
+* Kaarta & City of Pittsburgh
 
 Thus, every startup had a reporting authority and a mentor champion assigned to them who worked to guide them during the length of the program. This enabled the startups to better understand a subset of the markets and clients that they hope to serve, while also giving their government partners a glimpse of the future! The program ended with a celebration, with speeches from each of the startup founders, their mentors, and the city officials who made the program possible.  From each and every one of those speeches, it was clear that the program was a great success. We are incredibly thankful to have been a part. 
 
