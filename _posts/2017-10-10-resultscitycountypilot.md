@@ -6,8 +6,7 @@ layout: post
 ---
 As explained in the [previous post]({{ site.baseurl }}/2017/09/29/citycountypilot), CleanRobotics was part of the 2017 PGH Lab Innovation program, which provided us with an opportunity to publicly showcase and test our flagship product, the TrashBot. TrashBot is an automated, smart trash can that combines next-generation robotics, computer vision, and machine learning to sort recyclable materials from non-recyclable waste, specifically at the point of disposal, which makes it safer and more effective than sorting further down the process. According to Waste Management, America's largest recycler, the industry is experiencing a "national crisis," with almost all of America's 2,000 high-tech recycling facilities running in the red. There are several reasons for this, but the most significant is contamination resulting from inaccurate human sorting. During the week of 9/11 – 9/15, one TrashBot was deployed in the City County Building in downtown Pittsburgh, where we were able to collect valuable feedback from curious passersby. Their great interest in the TrashBot made it clear that the residents of Pittsburgh are ready for better recycling, and we at CleanRobotics are ready to help.
 
-
-![TrashbotV2](/img/posts/TrashbotV2.jpg){:class="img-responsive"}{:height="900px" width="350px"}   ![grantcc](/img/posts/grantcc.jpg){:class="img-responsive"}{:height="900px" width="350px"}
+![TrashbotV2](/img/posts/TrashbotV2.jpg){:class="img-responsive"}{:height="900px" width="350px"}
 
 
 The Pittsburghers with whom we interacted provided some excellent feedback. Based on surveys and conversations with employees and members of the public, we were able to determine the following:
