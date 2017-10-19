@@ -1,5 +1,5 @@
 ---
-title: CleanRobotics at the PGH Labs Innovation Program
+title: Participating in the PGH Labs Innovation Program
 img: jaytalking.JPG
 thumbnail: tbotthumb.jpg
 layout: post
@@ -17,14 +17,14 @@ We'll share some key insights from the pilot in our next post,  but for now, her
 
 1\. *How would you describe the program at PGH Labs, and what benefits does it offer for startups?*
 
- **Annia**: The PGH Lab program brings local startups to test products and services at the City of Pittsburgh and participating authorities for 3-4 months. The program targets early stage startups with a working prototype so that they can test products and services in a real-world environment and gain as much feedback on the product as possible. In addition, participating companies get to work with a city staff that acts as mentor and provides feedback on the product/service, access to the city’s network, co-working space, and free membership to 1776 UNION online global incubator. 
+ **Annia**: The PGH Lab program brings local startups to test products and services at the City of Pittsburgh and participating authorities for 3-4 months. The program targets early-stage startups with a working prototype so that they can test products and services in a real-world environment and gain as much feedback on the product as possible. In addition, participating companies get to work with a city staff member who acts as a mentor and provides feedback on the product/service, access to the city’s network, co-working space, and free membership to the 1776 UNION online global incubator. 
 
-2\. *What are the criteria used to determine and select the companies which would be part of the program?* 
+2\. *What are the criteria used to select the companies for each?* 
 
  **Annia**:  Startups are evaluated on the following criteria: 
-* Innovation based solution: Solution addresses the challenge creatively and effectively, is compatible with or flexible to work with City’s IT infrastructure and City requirements. 
-* Skills, Experience, and Background: Professional qualifications and education of team members, the existence or (lack thereof) existing and working prototypes, recent relevant experience of team members. 
-* Impact: The proposed solution has potential to benefit the City and residents. 
+* Innovation-based solution: Solution addresses the challenge creatively and effectively, is compatible with or flexible to work with City’s IT infrastructure and City requirements. 
+* Skills, Experience, and Background: Professional qualifications and education of team members, the existence (or lack thereof) of existing and working prototypes, recent relevant experience of team members. 
+* Impact: The proposed solution has potential to benefit the City and its residents. 
 * Inclusion: The Company’s commitment to the principles of diversity and inclusion.  
 
 *Has the selection process been difficult?*
@@ -37,7 +37,7 @@ We'll share some key insights from the pilot in our next post,  but for now, her
 
 4\. *You supported our team throughout the program, especially with respect to logistics, and we thank you for that! How would you define your specific role within the program?* 
 
- **Annia**: I coordinate the program, serve a liaison between the startups and city government, and also work in the Roadmap for Inclusive Innovation team. 
+ **Annia**: I coordinate the program, serve as a liaison between the startups and city government, and also work in the Roadmap for Inclusive Innovation team. 
 
 5\. *What do you think the future holds for the program?* 
 
