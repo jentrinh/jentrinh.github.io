@@ -4,29 +4,12 @@ img: jaytalking.JPG
 thumbnail: tbotthumb.jpg
 layout: post
 ---
-CleanRobotics just wrapped up a pilot with the City of Pittsburgh's innovation arm called PGH Lab.
-
-
-PGH Lab describes their mission as:
-“The PGH Lab program provides a platform where local startups use technology to make the City of Pittsburgh more efficient, sustainable, and inclusive.” 
-
-And boasts of benefits, apart from providing the startups a real environment to test their prototypes in, like:
-
-* Co-Working Space
-
-* Access to many global incubators
-
-* Mentoring & Guidance from a city champion
-
-CleanRobotics is proud to have been part of the 2017 Cohort and gained amazing experience during the pilot along with other innovative startup from the region.
-
+CleanRobotics just wrapped up a pilot with the City of Pittsburgh's innovation arm called PGH Lab, which helps local startups pilot their products and services in real environments in th Pittsburgh area. CleanRobotics is proud to have been part of their 2017 cohort of startups.
 
 ![cohortpgh](/img/posts/cohortpgh.jpg){:class="img-responsive"}{:height="1200px" width="800px"}
 
 
-We will share insights from the pilot in our next post,  but for now, here's some info on PGH Lab.
-
-We sat down with Annia Aleman - Civic Innovation Specialist at the PGH Lab to help people learn more about the program.
+We'll share some key insights from the pilot in our next post,  but for now, here's some info on PGH Lab. We sat down with Annia Aleman, Civic Innovation Specialist at PGH Lab, to ask a few questions about the program.
 
 
 ![anniapost](/img/posts/anniapost.JPG){:class="img-responsive"}{:height="1200px" width="600px"}
@@ -38,19 +21,19 @@ We sat down with Annia Aleman - Civic Innovation Specialist at the PGH Lab to he
 
 2\. *What are the criteria used to determine and select the companies which would be part of the program?* 
 
- **Annia**:  Startups are evaluated in the following criteria: 
-Innovation based solution: Solution address the challenge creatively and effectively, is compatible with or flexible to work with City’s IT infrastructure and City requirements. 
-Skills, Experience, and Background: Professional qualifications and education of team members, the existence or (lack thereof) existing and working prototypes, recent relevant experience of team members. 
-Impact: The proposed solution has potential to benefit the City and residents. 
-Inclusion: The Company’s commitment to the principles of diversity and inclusion.  
+ **Annia**:  Startups are evaluated on the following criteria: 
+* Innovation based solution: Solution addresses the challenge creatively and effectively, is compatible with or flexible to work with City’s IT infrastructure and City requirements. 
+* Skills, Experience, and Background: Professional qualifications and education of team members, the existence or (lack thereof) existing and working prototypes, recent relevant experience of team members. 
+* Impact: The proposed solution has potential to benefit the City and residents. 
+* Inclusion: The Company’s commitment to the principles of diversity and inclusion.  
 
-*Has the selection been difficult?*
+*Has the selection process been difficult?*
  
  **Annia**: Not at all, companies are evaluated based on the criteria above and a scoring mechanism by the PGH Lab review committee. The companies with the highest scores move on to the second part of the selection process which includes a company presentation and an opportunity for Q&A.
 
 3\. *What are some of the positive outcomes from the program?* 
 
- **Annia**: We are still learning as we go. However, after completing the pilot projects companies gain a deeper understanding of how their products/services work in a real world environment and they also learn the ins and out of working with local government. 
+ **Annia**: We are still learning as we go. However, after completing the pilot projects, companies gain a deeper understanding of how their products/services work in a real-world environment and they also learn the ins and out of working with local government. 
 
 4\. *You supported our team throughout the program, especially with respect to logistics, and we thank you for that! How would you define your specific role within the program?* 
 
