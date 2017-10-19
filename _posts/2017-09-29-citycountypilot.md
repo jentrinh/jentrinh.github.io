@@ -1,7 +1,7 @@
 ---
 title: Participating in the PGH Labs Innovation Program
 img: jaytalking.JPG
-thumbnail: tbotthumb.jpg
+thumbnail: pghlab-thumbnail.jpg
 layout: post
 ---
 CleanRobotics just wrapped up a pilot with the City of Pittsburgh's innovation arm called PGH Lab, which helps local startups pilot their products and services in real environments in th Pittsburgh area. CleanRobotics is proud to have been part of their 2017 cohort of startups.
