@@ -1,5 +1,5 @@
 ---
-title: Insights from the PGH Lab Pilot
+title: Insights from the PGH Labs Pilot
 img: CityCountyteam.jpg
 thumbnail: tbotresizeimage.jpg
 layout: post
