@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thrival + TrashBot // Lessons from the Public
+title: TrashBot x Thrival // Lessons from the Public
 img: thrival3.png
 thumbnail: thrival_tbot_thumb.jpg
 ---
