@@ -5,11 +5,11 @@ img: thrival3.png
 thumbnail: thrival_tbot_thumb.jpg
 ---
 
-A few weeks ago, we had the opportunity to participate in the Innovation Marquee event at Thrival, a quintessential Pittsburgh experience that melds together lectures and exhibits on AI, tech, and art, followed by a weekend-long music festival. The Innovation Marquee event brings together Pittsburgh tech companies and the public, allowing people to witness local products in action in a fun and interactive environment. 2017 marked the fifth year that Thrival’s been hosted, and we were honored to have been invited to participate. 
+A few weeks ago, we had the opportunity to participate in the Innovation Marquee event at Thrival, a quintessential Pittsburgh experience that melds together lectures and exhibits on AI, tech, and art, followed by a weekend-long music festival. The Innovation Marquee, which took place at the Carnegie Museum of Art, event brings together Pittsburgh tech companies and the public, allowing people to witness local products in action in a fun and interactive environment. 2017 marked the fifth year that Thrival’s been hosted, and we were honored to have been invited to participate. 
 
 In attendance was our TrashBot, the smart waste receptacle that automatically sorts landfill waste from recyclables. TrashBot was featured in a foyer lit with bright green lights and filled with other tech companies (plus drummers and an aerial silks display!). Given the free candy and cheap booze being sold, trash and recyclables (in the form of candy wrappers, napkins, cups, cans, and bottles) abounded, which provided users with the means to put our TrashBot to the test.
 
-![TrashBot at the Carnegie Museum of Art](/img/posts/tbot_thrival2.jpg){:class="img-responsive"}{:height="900px" width="350px"}
+![TrashBot](/img/posts/tbot_thrival2.jpg){:class="img-responsive"}{:height="900px" width="350px"}
 
 During a recent design lecture at our accelerator space, AlphaLab Gear, a professor of design from CMU told us about the importance of user feedback, particularly through open-ended, unguided interactions. Therefore, while many of the folks who stopped by were asked to fill out a survey (just for basic feedback), others were invited to tell us their freely-formed thoughts and opinions on the TrashBot. We’re going to share a few of them here. 
 
