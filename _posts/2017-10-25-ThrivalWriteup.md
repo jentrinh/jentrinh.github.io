@@ -9,7 +9,7 @@ A few weeks ago, we had the opportunity to participate in the Innovation Marquee
 
 In attendance was our TrashBot, the smart waste receptacle that automatically sorts landfill waste from recyclables. TrashBot was featured in a foyer lit with bright green lights and filled with other tech companies (plus drummers and an aerial silks display!). Given the free candy and cheap booze being sold, trash and recyclables (in the form of candy wrappers, napkins, cups, cans, and bottles) abounded, which provided users with the means to put our TrashBot to the test.
 
-![TrashBot](/img/posts/tbot_thrival2.jpg){:class="img-responsive"}{:height="900px" width="350px"}
+![TrashBot](/img/posts/tbot_thrival2.jpg){:class="img-responsive"}{:height="1200px" width="825px"}
 
 During a recent design lecture at our accelerator space, AlphaLab Gear, a professor of design from CMU told us about the importance of user feedback, particularly through open-ended, unguided interactions. Therefore, while many of the folks who stopped by were asked to fill out a survey (just for basic feedback), others were invited to tell us their freely-formed thoughts and opinions on the TrashBot. We’re going to share a few of them here. 
 
