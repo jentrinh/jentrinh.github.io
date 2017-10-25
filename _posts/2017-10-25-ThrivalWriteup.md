@@ -28,6 +28,6 @@ This is related to \#1, in that allowing users to see what’s going on will hel
 The answer to this is currently no, but it is likely in the cards for future versions. We will keep you posted!
 
 **Most Unique Feedback:** The TrashBot technology could be augmented to sort clothing (e.g. at donation centers).
-Kudos to this user for being so creative! We don’t, however, foresee working on this problem any time soon, as our focus is on improving the waste stream. Besides, robotics and fabrics don’t have a good history together, as it’s difficult for robots to handle [fabric](https://www.fastcompany.com/3067149/is-this-sewing-robot-the-future-of-fashion). In fact, a sewing robot was only developed very [recently](https://www.fastcompany.com/3067149/is-this-sewing-robot-the-future-of-fashion). Interesting thought!
+Kudos to this user for being so creative! We don’t, however, foresee working on this problem any time soon, as our focus is on improving the waste stream. Besides, robotics and fabrics don’t have a good history together, as it’s difficult for robots to handle [fabric](https://www.fastcompany.com/3067149/is-this-sewing-robot-the-future-of-fashion). In fact, a sewing robot was only developed very [recently](https://www.fastcompany.com/3067149/is-this-sewing-robot-the-future-of-fashion). Interesting thought, though!
 
 Tell us what you think about these, and check out Thrival’s write-up about us [here](http://www.thrivalfestival.com/blog/2017/9/30/trashbot-your-friendly-neighborhood-recycling-robot)! 
