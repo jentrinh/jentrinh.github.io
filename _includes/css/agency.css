@@ -261,6 +261,10 @@ fieldset[disabled] .btn-xl.active {
     background-color: #{{ site.color.secondary }};
 }
 
+.navbar-default .navbar-nav>li>.dropdown-menu { 
+    background-color: #222; 
+}
+
 @media(min-width:768px) {
     .navbar-default {
         padding: 25px 0;
