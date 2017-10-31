@@ -293,7 +293,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .dropdown {
-  float: left;
+  float: right;
   overflow: hidden;
 }
 
@@ -302,9 +302,9 @@ fieldset[disabled] .btn-xl.active {
   font-size: 16px; 
   border: none;
   outline: none;
-  color: white;
-  padding: 14px 16px;
-  background-color: inherit;
+  color: #fff;
+  padding: 5px 5px;
+  background-color: #222;
 }
 
 /* Add a red background color to navbar links on hover */
@@ -326,10 +326,10 @@ fieldset[disabled] .btn-xl.active {
 .dropdown-content a {
   float: none;
   color: black;
-  padding: 12px 16px;
+  padding: 5px 5px;
   text-decoration: none;
   display: block;
-  text-align: left;
+  text-align: right;
 }
 
 /* Add a grey background color to dropdown links on hover */
