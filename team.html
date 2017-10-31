@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+
+	{% include head.html %}
+	<body id="page-top" class="index">
+
+
+<!-- Navigation -->
+<nav class="navbar navbar-default navbar-fixed-top">
+	<div class="container">
+		<div class="navbar-header page-scroll">
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<a class="navbar-brand page-scroll" href="#page-top">
+				<img src="{{site.logo-header}}" class="header-logo" alt="{{site.title}}">
+			</a>
+		</div>
+		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+			<ul class="nav navbar-nav navbar-right">
+				<li>
+					<a class="page-scroll" href="#page-top">Home</a>
+				</li>
+				<li>
+					<a class="page-scroll" href="#solution">Solution</a>
+				</li>
+      				<li class="nav-item dropdown">
+        				<a class="nav-link dropdown-toggle flex-column" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          				Company
+        				<span class="caret"></span>
+                        </a>
+					<ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+				        <li>
+                            <a class="dropdown-item" href="#team">Team</a>
+                        </li>
+                        <li>
+							<a class="dropdown-item" href="#news">Blog</a>
+                    	</li>
+            			<li>
+							<a class="dropdown-item" href="#careers">Careers</a>
+                    	</li>
+					</ul>
+				</li>
+				<li>
+					<a class="page-scroll" href="#contact">Contact</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+</nav>
+        
+<!-- hero "header" -->
+<div class="header">
+	<div class="container">
+		<div class="intro-text">
+			<div class="intro-heading">
+				Meet the Team
+			</div>
+		</div>
+	</div>
+</div>       
+    <div class="container">
+            <div class="row">
+                {% for member in site.people %}
+                {% if member.type == 'leadership' %}
+                <div class="col-lg-3 col-sm-6">
+                    <div class="team-member">
+                        <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
+                        <h3>{{ member.first }}<br>{{ member.last }}</h3>
+                        <h4 class="text-muted">{{ member.position }}</h4>
+                        <p class="text-muted">{{ member.info }}</p>
+                    </div>
+                </div>
+                {% endif %}
+                {% endfor %}
+            </div>
+            <div class="row">
+                {% for member in site.people %}
+                {% if member.type == 'advisory' %}
+                <div class="col-lg-3 col-sm-6">
+                    <div class="team-member">
+                        <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
+                        <h3>{{ member.first }}<br>{{ member.last }}</h3>
+                        <h4 class="text-muted">{{ member.position }}</h4>
+                        <p class="text-muted">{{ member.info }}</p>
+                    </div>
+                </div>
+                {% endif %}
+                {% endfor %}
+            </div>
+    </div>
+
+    <section id="careers" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <h1>We are looking to grow our team!<h1>
+                    <h3>Check our <a href="{{site.baseurl}}/careers">Careers Page</a> for current opportunities.</h3>
+                </div>
+            </div>
+        </div>
+    </section>
+    {% include footer.html %}
+	{% include js.html %}
+	</body>
+</html>
