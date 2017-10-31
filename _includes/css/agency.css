@@ -294,7 +294,6 @@ fieldset[disabled] .btn-xl.active {
 
 .dropdown {
   float: right;
-  overflow: hidden;
 }
 
 /* Dropdown button */
@@ -305,11 +304,6 @@ fieldset[disabled] .btn-xl.active {
   color: #fff;
   padding: 5px 5px;
   background-color: #222;
-}
-
-/* Add a red background color to navbar links on hover */
-.navbar a:hover, .dropdown:hover .dropbtn {
-  background-color: #{{ site.color.secondary }};
 }
 
 /* Dropdown content (hidden by default) */
