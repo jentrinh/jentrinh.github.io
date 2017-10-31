@@ -33,14 +33,22 @@
 				<li>
 					<a href="{{site.url}}/team">Team</a>
 				</li>
-				<li>
-					<a class="page-scroll" href="#page-top">Careers</a>
-				</li>
-				<li>
-					<a href="{{site.baseurl}}/#news">News</a>
-				</li>
-				<li>
-					<a href="{{site.baseurl}}/#contact">Contact</a>
+                <li class="nav-item dropdown">
+        				<a class="nav-link dropdown-toggle flex-column" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          				Company
+        				<span class="caret"></span>
+                        </a>
+					<ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+				        <li>
+                            <a class="dropdown-item" href="#{{site.url}}/team/">Team</a>
+                        </li>
+                        <li>
+							<a class="dropdown-item" href="{{site.url}}/#news">Blog</a>
+                    	</li>
+            			<li>
+							<a class="dropdown-item" href="#page-top">Careers</a>
+                    	</li>
+                    </ul>
 				</li>
 			</ul>
 		</div>
