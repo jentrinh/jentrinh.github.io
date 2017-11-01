@@ -294,11 +294,13 @@ fieldset[disabled] .btn-xl.active {
     .navbar-default.navbar-shrink .navbar-brand {
       font-size: 1.5em;
     }
+    .navbar-default .navbar-nav>li>.dropdown-menu { 
+      display: block;
+      background-color: #222; 
+}
 }
 
-.navbar-default .navbar-nav>li>.dropdown-menu { 
-    background-color: #222; 
-}
+
 
 .header {
 	text-align: center;
