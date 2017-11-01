@@ -708,6 +708,11 @@ section h3.section-subheading {
     }
 }
 
+.team-intro {
+    margin-top: 50px;
+    text-align: left;
+}
+
 .team-member {
     margin-bottom: 50px;
     text-align: center;
