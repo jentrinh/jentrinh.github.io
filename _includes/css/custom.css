@@ -69,6 +69,23 @@ section#careers {
     -o-background-size: cover;
 }
 
+section#teamhead {
+    text-align: center;
+    color: #fff;
+    background-image:
+        linear-gradient(
+          rgba(0, 0, 0, 0.5),
+          rgba(0, 0, 0, 0.5)
+        ),
+        url(img/about/solution-background2.jpg);
+    background-position: 50% 80%;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
 .header-logo{
     height: 1.75em;
     position: relative;
