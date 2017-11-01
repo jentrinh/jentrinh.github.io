@@ -298,9 +298,6 @@ fieldset[disabled] .btn-xl.active {
       display: block;
       background-color: #222; 
     }
-    .navbar-default .navbar-nav>li>.dropdown-backdrop {
-    position: static;
-    }
 }
 
 
