@@ -75,8 +75,9 @@
         
 <section>
     <div class="container">
+        <h2 style="align-content:center">Co-Founders</h2>
             <div class="row col-lg-12 col-lg-offset-2">
-                <h2 style="align-content:center">Co-Founders</h2>
+                
                 {% for member in site.people %}
                 {% if member.type == 'leadership' %}
                 <div class="col-lg-4 col-sm-6">
@@ -90,8 +91,9 @@
                 {% endif %}
                 {% endfor %}
             </div>
+        <h2 style="align-content:center">Leadership</h2>
             <div class="row col-lg-12">
-                <h2 style="align-content:center">Leadership</h2>
+                
                 {% for member in site.people %}
                 {% if member.type == 'employee' %}
                 <div class="col-lg-4 col-sm-6">
@@ -111,8 +113,8 @@
                 {% endif %}
                 {% endfor %}
             </div>
+        <h2 style="align-content:center">Advisors</h2>
             <div class="row col-lg-12 col-lg-offset-3">
-                <h2 style="align-content:center">Advisors</h2>
                 {% for member in site.people %}
                 {% if member.type == 'advisory' %}
                 <div class="col-lg-4 col-sm-6">
