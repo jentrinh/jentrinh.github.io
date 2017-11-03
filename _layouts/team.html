@@ -75,10 +75,11 @@
         
 <section>
     <div class="container">
-            <div class="row">
+            <div class="row col-lg-offset-3">
+                <h2 style="align-content:center">Co-Founders</h2>
                 {% for member in site.people %}
                 {% if member.type == 'leadership' %}
-                <div class="col-lg-3 col-lg-offset-3 col-sm-6">
+                <div class="col-lg-3 col-sm-6">
                     <div class="team-member">
                         <img src="{{site.url}}/img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
                         <h3>{{ member.first }}<br>{{ member.last }}</h3>
@@ -90,6 +91,7 @@
                 {% endfor %}
             </div>
             <div class="row">
+                <h2 style="align-content:center">Leadership</h2>
                 {% for member in site.people %}
                 {% if member.type == 'employee' %}
                 <div class="col-lg-3 col-sm-6">
@@ -109,10 +111,11 @@
                 {% endif %}
                 {% endfor %}
             </div>
-            <div class="row">
+            <div class="row col-lg-offset-3">
+                <h2 style="align-content:center">Advisors</h2>
                 {% for member in site.people %}
                 {% if member.type == 'advisory' %}
-                <div class="col-lg-3 col-lg-offset-3 col-sm-6">
+                <div class="col-lg-3 col-sm-6">
                     <div class="team-member">
                         <div class="container">
                             <img src="{{site.url}}/img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
