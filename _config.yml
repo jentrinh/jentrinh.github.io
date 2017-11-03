@@ -65,7 +65,7 @@ people:
   last: Pathak
   pic: staff_aakash
   position: VP of Product Commercialization
-  type: leadership
+  type: employee
   info: Aakash brings strong experience in Product Strategy, Product Marketing, Go-to-Market, and Growth Hacking. He has an MS in Entrepreneurship and Innovation Management from CMU.
   social:
     - title: twitter
@@ -74,24 +74,11 @@ people:
       url: #
     - title: linkedin
       url: #
-- first: Jayant
-  last: Sharma
-  pic: staff_jayanth
-  position: Director of Electronic Systems
-  type: leadership
-  info: Jayant is a recent graduate of CMU with a Masters in Electrical Engineering. He brings a robust knowledge of a variety of electrical systems.
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
 - first: Grant
   last: Halleran
   pic: staff_grant
   position: Director of Hardware Engineering
-  type: advisory
+  type: employee
   info: Grant is a graduate student at CMU in Engineering and Technology Innovation Management, with an undergraduate degree in Mechanical Engineering. He brings technical expertise in design for manufacturing, product development, and hardware engineering.
   social:
     - title: twitter
@@ -104,7 +91,7 @@ people:
   last: Trinh
   pic: staff_jen1
   position: Director of Operations
-  type: advisory
+  type: employee
   info: Jen is an experienced project leader in technical startup environments. She has a PhD in physics from UC Santa Cruz, where she was an NSF Graduate Research Fellow. She is passionate about sustainability and promoting scientific literacy and diversity in science and tech.
   social:  
     - title: twitter
