@@ -94,15 +94,17 @@
                 {% if member.type == 'advisory' %}
                 <div class="col-lg-3 col-sm-6">
                     <div class="team-member">
-                        <img src="{{site.url}}/img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
-                        <h3>{{ member.first }}<br>{{ member.last }}</h3>
-                        <h4 class="text-muted">{{ member.position }}</h4>
-                        <p class="collapse text-muted text-left">{{ member.info }} </p>
-                        <p><a class="btn" href="#">About<br>{{ member.first }} &raquo;</a></p>
+                        <div class="span4 collapse-group">
+                            <img src="{{site.url}}/img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
+                            <h3>{{ member.first }}<br>{{ member.last }}</h3>
+                            <h4 class="text-muted">{{ member.position }}</h4>
+                            <p class="collapse text-muted text-left">{{ member.info }} </p>
+                            <p><a class="btn" href="#">About<br>{{ member.first }} &raquo;</a></p>
+                        </div>
                     </div>
+                </div>
                 {% endif %}
                 {% endfor %}
-            </div>
         </div>
     </div>
 </section>
