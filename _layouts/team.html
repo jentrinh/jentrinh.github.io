@@ -104,7 +104,7 @@
                 {% if member.type == 'employee' %}
                 <div class="col-lg-4 col-sm-6">
                     <div class="team-member">
-                    <!--<div class="container">-->
+                   <!-- <div class="container">-->
                             <img src="{{site.url}}/img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
                             <h3>{{ member.first }}<br>{{ member.last }}</h3>
                             <h4 class="text-muted">{{ member.position }}</h4>
@@ -113,7 +113,7 @@
                             <div id="{{ member.first }}" class="collapse col-lg-4">
                                   {{ member.info }} 
                             </div>
-                    <!--</div>-->
+                   <!-- </div>-->
                     </div>
                 </div>
                 {% endif %}
@@ -129,7 +129,7 @@
                 {% if member.type == 'advisory' %}
                 <div class="col-lg-4 col-sm-6">
                     <div class="team-member">
-                        <div class="container">
+                   <!-- <div class="container">-->
                             <img src="{{site.url}}/img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
                             <h3>{{ member.first }}<br>{{ member.last }}</h3>
                             <h4 class="text-muted">{{ member.position }}</h4>
@@ -138,7 +138,7 @@
                             <div id="{{ member.first }}" class="collapse col-lg-4">
                                   {{ member.info }} 
                             </div>
-                        </div>
+                   <!-- </div> -->
                     </div>
                 </div>
                 {% endif %}
