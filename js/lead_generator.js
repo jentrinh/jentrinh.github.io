@@ -10,19 +10,14 @@ $(function() {
             // get values from FORM
             var name = $("input#Name").val();
             var email = $("input#Email").val();
-            var message = $("input#Company").val();
-            var firstName = name; // For Success/Failure Message
-            // Check for white space in name for Success/Fail message
-            if (firstName.indexOf(' ') >= 0) {
-                firstName = name.split(' ').slice(0, -1).join(' ');
-            }
+            var company = $("input#Company").val();
             $.ajax({
                 url: "https://script.google.com/macros/s/AKfycbz8DkKlFp6UPWzsvpWOTtdPWau4NFONi8P-5e3r5mzer8hFwJ0/exec",
                 method: "POST",
                 data: {
                     Name: name,
                     Email: email,
-                    Message: message
+                    Company: company
                 },
                 dataType: "json",
                 cache: false,
