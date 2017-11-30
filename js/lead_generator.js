@@ -23,9 +23,9 @@ $(function() {
                 //    Name: name,
                 //    Email: email,
                 //    Company: company
-                data: serializedData
-                },
-                dataType: "json",
+                data: serializedData,
+                //},
+                //dataType: "json",
                 cache: false,
                 success: function() {
                     // Success message
