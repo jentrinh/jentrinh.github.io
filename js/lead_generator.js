@@ -22,7 +22,7 @@ $(function() {
                 data: {
                     Name: name,
                     Email: email,
-                    Company: message
+                    Company: company
                 },
                 success: function() {
                     // Success message
