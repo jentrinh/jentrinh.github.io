@@ -8,12 +8,8 @@ $(function() {
         submitSuccess: function($form, event) {
             event.preventDefault(); // prevent default submit behaviour
             // get values from FORM
-             // setup some local variables
-            var $form = $(this);
-
             // Let's select and cache all the fields
             var $inputs = $form.find("input, select, button, textarea");
-
             // Serialize the data in the form
             var serializedData = $form.serialize();
             
