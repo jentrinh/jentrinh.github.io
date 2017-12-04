@@ -86,6 +86,23 @@ section#teamhead {
     -o-background-size: cover;
 }
 
+section#leadGenerator {
+    text-align: center;
+    color: #fff;
+    background-image:
+        linear-gradient(
+          rgba(0, 0, 0, 0.5),
+          rgba(0, 0, 0, 0.5)
+        ),
+        url(img/about/trashbot_crop.jpg);
+    background-position: 50% 80%;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
 .header-logo{
     height: 1.75em;
     position: relative;
