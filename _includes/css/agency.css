@@ -441,11 +441,11 @@ fieldset[disabled] .btn-xl.active {
     line-height: 4rem;
 }
 
-@media(min-width:768px) {
+@media(min-width:400px) {
     .header_learn  .intro-text {
         height: auto;
-        padding-top: 300px;
-        padding-bottom: 200px;
+        padding-top: 100px;
+        padding-bottom: 80px;
     }
 
     .header_learn  .intro-text .intro-lead-in {
