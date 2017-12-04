@@ -444,8 +444,8 @@ fieldset[disabled] .btn-xl.active {
 @media(min-width:400px) {
     .header_learn  .intro-text {
         height: auto;
-        padding-top: 100px;
-        padding-bottom: 80px;
+        padding-top: 150px;
+        padding-bottom: 50px;
     }
 
     .header_learn  .intro-text .intro-lead-in {
