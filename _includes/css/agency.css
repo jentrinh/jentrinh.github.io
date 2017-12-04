@@ -321,26 +321,6 @@ fieldset[disabled] .btn-xl.active {
 	/*text-shadow: rgba(0, 0, 0, 0.5) 0px 0px 8px;*/
 }
 
-.header_learn {
-	text-align: center;
-	color: #fff;
-	background-attachment: scroll;
-	background-image:
-        linear-gradient(
-          rgba(0, 0, 0, 0.5),
-          rgba(0, 0, 0, 0.5)
-        ),
-		url(img/about/brown_paper.jpg);
-	background-position: center center;
-	background-repeat: no-repeat;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	background-size: cover;
-	-o-background-size: cover;
-	height: 100%;
-	/*text-shadow: rgba(0, 0, 0, 0.5) 0px 0px 8px;*/
-}
-
 #header {
 	background-color: #444;
 	background-position: center 10%;
@@ -394,6 +374,88 @@ fieldset[disabled] .btn-xl.active {
     }
 
     .header  .intro-text .intro-heading {
+        margin-bottom: 50px;
+        text-transform: uppercase;
+        font-family: {{ site.font.heading1 }},{{ site.font.heading2 }},{{ site.font.heading3 }},{{ site.font.heading4 }},{{ site.font.heading5 }};
+        font-size: 75px;
+        font-weight: 700;
+        line-height: 75px;
+    }
+}
+
+.header_learn {
+	text-align: center;
+	color: #fff;
+	background-attachment: scroll;
+	background-image:
+        linear-gradient(
+          rgba(0, 0, 0, 0.5),
+          rgba(0, 0, 0, 0.5)
+        ),
+		url(img/about/brown_paper.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+	height: 100%;
+	/*text-shadow: rgba(0, 0, 0, 0.5) 0px 0px 8px;*/
+}
+
+#header_learn {
+	background-color: #444;
+	background-position: center 10%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-image: linear-gradient( rgba(0,0,0,0.6), rgba(0,0,0, 0.6)), url(img/header-bg.jpg);
+	display: table;
+	width: 100%;
+	height: 1080px;
+	min-height: 100%;
+	overflow-x: hidden;
+	overflow-y: hidden;
+	vertical-align: middle;
+	z-index: 1;
+}
+
+.header_learn .intro-text {
+    padding-top: 50%;
+    padding-bottom: 25%;
+}
+
+.header_learn  .intro-text .intro-lead-in {
+    margin-bottom: 25px;
+    font-family: {{ site.font.heading1 }},{{ site.font.heading2 }},{{ site.font.heading3 }},{{ site.font.heading4 }},{{ site.font.heading5 }};
+    font-size: 22px;
+    line-height: 22px;
+}
+
+.header_learn  .intro-text .intro-heading {
+    margin-bottom: 25px;
+    text-transform: uppercase;
+    font-family: {{ site.font.heading1 }},{{ site.font.heading2 }},{{ site.font.heading3 }},{{ site.font.heading4 }},{{ site.font.heading5 }};
+    font-size: 4rem;
+    font-weight: 700;
+    line-height: 4rem;
+}
+
+@media(min-width:768px) {
+    .header_learn  .intro-text {
+        height: auto;
+        padding-top: 300px;
+        padding-bottom: 200px;
+    }
+
+    .header_learn  .intro-text .intro-lead-in {
+        margin-bottom: 25px;
+        font-family: {{ site.font.heading1 }},{{ site.font.heading2 }},{{ site.font.heading3 }},{{ site.font.heading4 }},{{ site.font.heading5 }};
+        font-size: 40px;
+        line-height: 40px;
+    }
+
+    .header_learn  .intro-text .intro-heading {
         margin-bottom: 50px;
         text-transform: uppercase;
         font-family: {{ site.font.heading1 }},{{ site.font.heading2 }},{{ site.font.heading3 }},{{ site.font.heading4 }},{{ site.font.heading5 }};
