@@ -321,6 +321,26 @@ fieldset[disabled] .btn-xl.active {
 	/*text-shadow: rgba(0, 0, 0, 0.5) 0px 0px 8px;*/
 }
 
+.header_learn {
+	text-align: center;
+	color: #fff;
+	background-attachment: scroll;
+	background-image:
+        linear-gradient(
+          rgba(0, 0, 0, 0.5),
+          rgba(0, 0, 0, 0.5)
+        ),
+		url(img/about/brown_paper.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+	height: 100%;
+	/*text-shadow: rgba(0, 0, 0, 0.5) 0px 0px 8px;*/
+}
+
 #header {
 	background-color: #444;
 	background-position: center 10%;
