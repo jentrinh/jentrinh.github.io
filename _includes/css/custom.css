@@ -89,12 +89,7 @@ section#teamhead {
 section#leadGenerator {
     text-align: center;
     color: #fff;
-    background-image:
-        linear-gradient(
-          rgba(0, 0, 0, 0.5),
-          rgba(0, 0, 0, 0.5)
-        ),
-        url(img/about/trashbot_crop.jpg);
+    background-color: #000;
     background-position: 50% 80%;
     background-repeat: no-repeat;
     -webkit-background-size: cover;
